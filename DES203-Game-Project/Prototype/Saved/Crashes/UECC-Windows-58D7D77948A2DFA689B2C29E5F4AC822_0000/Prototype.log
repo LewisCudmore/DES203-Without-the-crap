@@ -1,0 +1,1738 @@
+﻿Log file open, 02/12/23 17:17:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=14448)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Prototype
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Prototype.uproject -EpicPortal -epicusername="Hedda Kalvø" -epicuserid=0110b57e933b449ca54cee107f6a026e -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.1516] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|12th Gen Intel(R) Core(TM) i7-12700H"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="42ea73ea489dbdadc2e1198b7e53de3a"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.216789
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-58D7D77948A2DFA689B2C29E5F4AC822
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.1516] (), CPU: 12th Gen Intel(R) Core(TM) i7-12700H, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername="Hedda Kalvø" -epicuserid=0110b57e933b449ca54cee107f6a026e -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.02.12-17.17.02:541][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.02.12-17.17.02:541][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.02.12-17.17.02:541][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.02.12-17.17.02:543][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.02.12-17.17.02:543][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.02.12-17.17.02:543][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.02.12-17.17.02:543][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.02.12-17.17.02:543][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.02.12-17.17.02:543][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.02.12-17.17.02:543][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.02.12-17.17.02:543][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.02.12-17.17.02:543][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.02.12-17.17.02:543][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.02.12-17.17.02:543][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.02.12-17.17.02:566][  0]LogD3D12RHI: Aftermath initialized
+[2023.02.12-17.17.02:566][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.02.12-17.17.02:767][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3070 Ti Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2023.02.12-17.17.02:767][  0]LogD3D12RHI: Adapter has 8043MB of dedicated video memory, 0MB of dedicated system memory, and 8044MB of shared system memory, 1 output[s]
+[2023.02.12-17.17.02:822][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) Iris(R) Xe Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2023.02.12-17.17.02:822][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8044MB of shared system memory, 0 output[s]
+[2023.02.12-17.17.02:850][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.02.12-17.17.02:850][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8044MB of shared system memory, 0 output[s]
+[2023.02.12-17.17.02:851][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.02.12-17.17.02:851][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.02.12-17.17.02:851][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.02.12-17.17.02:851][  0]LogHAL: Display: Platform has ~ 16 GB [16870285312 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.02.12-17.17.02:851][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.02.12-17.17.02:851][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.02.12-17.17.02:852][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.02.12-17.17.02:852][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.02.12-17.17.02:852][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/Config/WindowsEditor/Editor.ini]
+[2023.02.12-17.17.02:852][  0]LogInit: Computer: MSI
+[2023.02.12-17.17.02:852][  0]LogInit: User: Junis
+[2023.02.12-17.17.02:852][  0]LogInit: CPU Page size=4096, Cores=14
+[2023.02.12-17.17.02:852][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.02.12-17.17.02:852][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2023.02.12-17.17.02:852][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.02.12-17.17.02:852][  0]LogMemory: Process Physical Memory: 295.90 MB used, 299.43 MB peak
+[2023.02.12-17.17.02:852][  0]LogMemory: Process Virtual Memory: 275.12 MB used, 275.12 MB peak
+[2023.02.12-17.17.02:852][  0]LogMemory: Physical Memory: 9474.48 MB used,  6614.27 MB free, 16088.76 MB total
+[2023.02.12-17.17.02:852][  0]LogMemory: Virtual Memory: 14699.62 MB used,  4589.14 MB free, 19288.76 MB total
+[2023.02.12-17.17.02:852][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.02.12-17.17.02:878][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.02.12-17.17.02:895][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.02.12-17.17.02:897][  0]LogInit: Using OS detected language (en-GB).
+[2023.02.12-17.17.02:897][  0]LogInit: Using OS detected locale (en-GB).
+[2023.02.12-17.17.02:900][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+[2023.02.12-17.17.03:021][  0]LogInit: Setting process to per monitor DPI aware
+[2023.02.12-17.17.03:035][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.02.12-17.17.03:035][  0]LogWindowsTextInputMethodSystem:   - Norwegian Bokmål (Norway) - (Keyboard).
+[2023.02.12-17.17.03:035][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2023.02.12-17.17.03:036][  0]LogWindowsTextInputMethodSystem: Activated input method: Norwegian Bokmål (Norway) - (Keyboard).
+[2023.02.12-17.17.03:048][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.02.12-17.17.03:048][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.02.12-17.17.03:114][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.02.12-17.17.03:117][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.02.12-17.17.03:117][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.02.12-17.17.03:187][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.02.12-17.17.03:187][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.02.12-17.17.03:187][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.02.12-17.17.03:187][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.02.12-17.17.03:187][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.02.12-17.17.03:187][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.02.12-17.17.03:187][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.02.12-17.17.03:187][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.02.12-17.17.03:187][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.02.12-17.17.03:187][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.02.12-17.17.03:187][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.02.12-17.17.03:187][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.02.12-17.17.03:187][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.02.12-17.17.03:187][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.02.12-17.17.03:187][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.02.12-17.17.03:187][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.02.12-17.17.03:240][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.02.12-17.17.03:246][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.02.12-17.17.03:259][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.02.12-17.17.03:290][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.02.12-17.17.03:290][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.02.12-17.17.03:308][  0]LogD3D12RHI:     GPU DeviceId: 0x24a0 (for the marketing name, search the web for "GPU Device Id")
+[2023.02.12-17.17.03:308][  0]LogWindows: Attached monitors:
+[2023.02.12-17.17.03:308][  0]LogWindows:     resolution: 2560x1440, work area: (0, 0) -> (2560, 1368), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.02.12-17.17.03:308][  0]LogWindows: Found 1 attached monitors.
+[2023.02.12-17.17.03:308][  0]LogWindows: EnumDisplayDevices:
+[2023.02.12-17.17.03:308][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.02.12-17.17.03:308][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.02.12-17.17.03:308][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.02.12-17.17.03:308][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.02.12-17.17.03:308][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3070 Ti Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.02.12-17.17.03:308][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3070 Ti Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.02.12-17.17.03:309][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3070 Ti Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.02.12-17.17.03:309][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3070 Ti Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY8'
+[2023.02.12-17.17.03:309][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.02.12-17.17.03:309][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3070 Ti Laptop GPU
+[2023.02.12-17.17.03:309][  0]LogD3D12RHI:   Driver Version: 522.25 (internal:31.0.15.2225, unified:522.25)
+[2023.02.12-17.17.03:309][  0]LogD3D12RHI:      Driver Date: 10-6-2022
+[2023.02.12-17.17.03:309][  0]LogRHI: Texture pool is 4583 MB (70% of 6547 MB)
+[2023.02.12-17.17.03:309][  0]LogD3D12RHI: Async texture creation enabled
+[2023.02.12-17.17.03:309][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.02.12-17.17.03:322][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.02.12-17.17.03:328][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Prototype.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Prototype.uproject"  -platform=all'
+[2023.02.12-17.17.03:328][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Prototype.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Prototype.uproject"  -platform=all" ]
+[2023.02.12-17.17.03:348][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.02.12-17.17.03:355][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.02.12-17.17.03:355][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.02.12-17.17.03:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.02.12-17.17.03:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.02.12-17.17.03:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.02.12-17.17.03:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.02.12-17.17.03:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.02.12-17.17.03:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.02.12-17.17.03:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.02.12-17.17.03:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.02.12-17.17.03:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.02.12-17.17.03:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.02.12-17.17.03:379][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.02.12-17.17.03:379][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.02.12-17.17.03:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.02.12-17.17.03:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.02.12-17.17.03:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.02.12-17.17.03:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.02.12-17.17.03:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.02.12-17.17.03:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.02.12-17.17.03:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.02.12-17.17.03:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.02.12-17.17.03:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.02.12-17.17.03:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.02.12-17.17.03:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.02.12-17.17.03:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.02.12-17.17.03:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.02.12-17.17.03:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.02.12-17.17.03:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.02.12-17.17.03:394][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.02.12-17.17.03:400][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.02.12-17.17.03:401][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.02.12-17.17.03:401][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.02.12-17.17.03:401][  0]LogTargetPlatformManager:   ADPCM
+[2023.02.12-17.17.03:401][  0]LogTargetPlatformManager:   PCM
+[2023.02.12-17.17.03:405][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.02.12-17.17.03:405][  0]LogTargetPlatformManager:   BINKA
+[2023.02.12-17.17.03:405][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.02.12-17.17.03:405][  0]LogTargetPlatformManager:   OGG
+[2023.02.12-17.17.03:405][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.02.12-17.17.03:405][  0]LogTargetPlatformManager:   OPUS
+[2023.02.12-17.17.03:441][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.02.12-17.17.03:446][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.02.12-17.17.03:446][  0]LogTargetPlatformManager:   SF_METAL
+[2023.02.12-17.17.03:446][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.02.12-17.17.03:446][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.02.12-17.17.03:446][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.02.12-17.17.03:446][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.02.12-17.17.03:446][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.02.12-17.17.03:446][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.02.12-17.17.03:446][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.02.12-17.17.03:446][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.02.12-17.17.03:446][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.02.12-17.17.03:446][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.02.12-17.17.03:446][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.02.12-17.17.03:446][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.02.12-17.17.03:446][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.02.12-17.17.03:446][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.02.12-17.17.03:450][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.02.12-17.17.03:450][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.02.12-17.17.03:450][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.02.12-17.17.03:450][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.02.12-17.17.03:450][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.02.12-17.17.03:450][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.02.12-17.17.03:450][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.02.12-17.17.03:450][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.02.12-17.17.03:450][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.02.12-17.17.03:454][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.02.12-17.17.03:454][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.02.12-17.17.03:455][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.02.12-17.17.03:458][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.02.12-17.17.03:458][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.02.12-17.17.03:458][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.12-17.17.03:458][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.02.12-17.17.03:473][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.02.12-17.17.03:473][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.12-17.17.03:473][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.02.12-17.17.03:480][  0]LogDerivedDataCache: Speed tests for C:/Users/Junis/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.02.12-17.17.03:480][  0]LogDerivedDataCache: Display: Performance to C:/Users/Junis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=277.59MBs, RandomWriteSpeed=298.98MBs. Assigned SpeedClass 'Local'
+[2023.02.12-17.17.03:481][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Junis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.02.12-17.17.03:481][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.02.12-17.17.03:481][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.02.12-17.17.03:486][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.02.12-17.17.03:486][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.02.12-17.17.03:487][  0]LogShaderCompilers: Guid format shader working directory is -69 characters bigger than the processId version (../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Intermediate/Shaders/WorkingDirectory/10676/).
+[2023.02.12-17.17.03:487][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Junis/AppData/Local/Temp/UnrealShaderWorkingDir/7088B5944584206D1F2E84ABFC858BB1/'.
+[2023.02.12-17.17.03:487][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.02.12-17.17.03:487][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 10 workers.
+[2023.02.12-17.17.04:553][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.02.12-17.17.04:553][  0]LogSlate: Using FreeType 2.10.0
+[2023.02.12-17.17.04:553][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.02.12-17.17.04:588][  0]LogAssetRegistry: FAssetRegistry took 0.0122 seconds to start up
+[2023.02.12-17.17.04:594][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.02.12-17.17.04:758][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.02.12-17.17.04:758][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.02.12-17.17.05:021][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.02.12-17.17.05:021][  0]LogDeviceProfileManager: Active device profile: [00000B258B1EF6C0][00000B2584055000 50] WindowsEditor
+[2023.02.12-17.17.05:021][  0]LogDeviceProfileManager: Profiles: [00000B258B1EF180][00000B258405A000 50] Windows, [00000B258B1EF6C0][00000B2584055000 50] WindowsEditor, [00000B258B1ED200][00000B2584052800 50] WindowsServer, [00000B258B1EAF00][00000B257EF5A000 50] WindowsClient, [00000B258B1E9840][00000B2584057800 50] IOS, [00000B258B1E94C0][00000B258B5D0000 50] iPadAir2, [00000B258B1EC400][00000B258B5D7800 50] IPadPro, [00000B258B1EE380][00000B258B5D5000 50] iPadAir3, [00000B258B1EA480][00000B258B5DA000 50] iPadAir4, [00000B258B1E8180][00000B258B5DC800 50] iPadMini4, [00000B258B1E71C0][00000B2564F25000 50] iPadMini5, [00000B258B1ED900][00000B258B610000 50] iPadMini6, [00000B258B680700][00000B258B61A000 50] iPhone6S, [00000B258B6801C0][00000B258B617800 50] iPhone7, [00000B258B680380][00000B258B615000 50] iPodTouch7, [00000B258B682680][00000B258B61C800 50] iPhone6SPlus, [00000B258B684600][00000B258B5D2800 50] iPhone7Plus, [00000B258B681DC0][00000B258B630000 50] iPhoneSE, [00000B258B681F80][00000B258B635000 50] iPhone8, [00000B258B682840][00000B258B637800 50] iPhone8Plus, [00000B258B683640][00000B258B63A000 50] iPhoneX, [00000B258B684B40][00000B258B63C800 50] iPhoneXS, [00000B258B684D00][00000B258B612800 50] iPhoneXSMax, [00000B258B684EC0][00000B258B600000 50] iPhoneXR, [00000B258B681500][00000B258B605000 50] iPhone11, [00000B258B681340][00000B258B607800 50] iPhone11Pro, [00000B258B6816C0][00000B258B60A000 50] iPhone11ProMax, [00000B258B683100][00000B258B60C800 50] iPhoneSE2, [00000B258B683800][00000B258B632800 50] iPhone12Mini, [00000B258B685780][00000B258B650000 50] iPhone12, [00000B258B6832C0][00000B258B655000 50] iPhone12Pro, [00000B258B6855C0][00000B258B657800 50] iPhone12ProMax, [00000B258B681A40][00000B258B65A000 50] iPhone13Mini, [00000B258B682140][00000B258B65C800 50] iPhone13, [00000B258B6808C0][00000B258B602800 50] iPhone13Pro, [00000B258B680A80][00000B258B660000 50] iPhone13ProMax, [00000B258B685400][00000B258B665000 50] iPadPro105, [00000B258B6847C0][00000B258B667800 50] iPadPro129, [00000B258B6863C0][00000B258B66A000 50] iPadPro97, [00000B258B685E80][00000B258B66C800 50] iPadPro2_129, [00000B258B686200][00000B258B652800 50] iPad5, [00000B258B681880][00000B258B690000 50] iPad6, [00000B258B6839C0][00000B258B695000 50] iPad7, [00000B258B683B80][00000B258B697800 50] iPad8, [00000B258B680E00][00000B258B69A000 50] iPad9, [00000B258B680000][00000B258B69C800 50] iPadPro11, [00000B258B683F00][00000B258B662800 50] iPadPro2_11, [00000B258B687380][00000B258B6A0000 50] iPadPro3_11, [00000B258B683480][00000B258B6A5000 50] iPadPro3_129, [00000B258B6871C0][00000B258B6A7800 50] iPadPro4_129, [00000B258B684980][00000B258B6AA000 50] iPadPro5_129, [00000B258B687540][00000B258B6AC800 50] AppleTV, [00000B258B6878C0][00000B258B692800 50] AppleTV4K, [00000B258B681180][00000B258B6B0000 50] TVOS, [00000B258B689A00][00000B258B6B7800 50] Mac, [00000B258B689680][00000B258B6B5000 50] MacEditor, [00000B258B68A9C0][00000B258B6BA000 50] MacClient, [00000B258B689BC0][00000B258B6BC800 50] MacServer, [00000B258B68CE80][00000B258B6E0000 50] Linux, [00000B258B68D200][00000B258B6E2800 50] LinuxEditor, [00000B258B687E00][00000B258B6E7800 50] LinuxArm64Editor, [00000B258B687FC0][00000B258B6EA000 50] LinuxArm64, [00000B258B681C00][00000B258B6EC800 50] LinuxClient, [00000B258B688880][00000B258B6A2800 50] LinuxArm64Client, [00000B258B6894C0][00000B258B6E5000 50] LinuxServer, [00000B258B68AF00][00000B258B6C0000 50] LinuxArm64Server, [00000B258B688500][00000B258B6C5000 50] Android, [00000B258B68CCC0][00000B258B6C7800 50] Android_Preview_OpenGL, [00000B258B68AB80][00000B258B6CA000 50] Android_Preview_Vulkan, [00000B258B68A800][00000B258B6CC800 50] Android_Low, [00000B258B682D80][00000B258B6B2800 50] Android_Mid, [00000B258B68D900][00000B258B6D0000 50] Android_High, [00000B258B68BB40][00000B258B6D5000 50] Android_Default, [00000B258B68D3C0][00000B258B6D7800 50] Android_Adreno4xx, [00000B258B688F80][00000B258B6DA000 50] Android_Adreno5xx_Low, [00000B258B684440][00000B258B6DC800 50] Android_Adreno5xx, [00000B258B68C5C0][00000B258B6C2800 50] Android_Adreno6xx, [00000B258B68D040][00000B258B6F0000 50] Android_Adreno6xx_Vulkan, [00000B258B68A100][00000B258B6F5000 50] Android_Adreno7xx, [00000B258B686AC0][00000B258B6F7800 50] Android_Adreno7xx_Vulkan, [00000B258B68A480][00000B258B6FA000 50] Android_Mali_T6xx, [00000B258B686C80][00000B258B6FC800 50] Android_Mali_T7xx, [00000B258B689300][00000B258B6D2800 50] Android_Mali_T8xx, [00000B258B6840C0][00000B258B700000 50] Android_Mali_G71, [00000B258B688A40][00000B258B705000 50] Android_Mali_G72, [00000B258B687000][00000B258B707800 50] Android_Mali_G72_Vulkan, [00000B258B68B980][00000B258B70A000 50] Android_Mali_G76, [00000B258B682BC0][00000B258B70C800 50] Android_Mali_G76_Vulkan, [00000B258B689F40][00000B258B6F2800 50] Android_Mali_G77, [00000B258B68B280][00000B258B710000 50] Android_Mali_G77_Vulkan, [00000B258B6824C0][00000B258B715000 50] Android_Mali_G78, [00000B258B687A80][00000B258B717800 50] Android_Mali_G78_Vulkan, [00000B258B685CC0][00000B258B71A000 50] Android_Mali_G710, [00000B258B685B00][00000B258B71C800 50] Android_Mali_G710_Vulkan, [00000B258B68B440][00000B258B702800 50] Android_Xclipse_920, [00000B258B68D740][00000B258B720000 50] Android_Xclipse_920_Vulkan, [00000B258B686580][00000B258B725000 50] Android_Vulkan_SM5, [00000B258B68B600][00000B258B727800 50] Android_PowerVR_G6xxx, [00000B258B68A2C0][00000B258B72A000 50] Android_PowerVR_GT7xxx, [00000B258B680C40][00000B258B72C800 50] Android_PowerVR_GE8xxx, [00000B258B685940][00000B258B712800 50] Android_PowerVR_GM9xxx, [00000B258B68C780][00000B258B730000 50] Android_PowerVR_GM9xxx_Vulkan, [00000B258B689140][00000B258B735000 50] Android_TegraK1, [00000B258B68DAC0][00000B258B737800 50] Android_Unknown_Vulkan, [00000B258B682F40][00000B258B73A000 50] Oculus_Quest, [00000B258B68C400][00000B258B73C800 50] Oculus_Quest2, [00000B258B68AD40][00000B258B722800 50] HoloLens, 
+[2023.02.12-17.17.05:021][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.02.12-17.17.05:024][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_ValidHostPrerequisites")
+[2023.02.12-17.17.05:024][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.02.12-17.17.05:024][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.02.12-17.17.05:024][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.02.12-17.17.05:024][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="Platform_ValidHostPrerequisites")
+[2023.02.12-17.17.05:045][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.02.12-17.17.05:249][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.02.12-17.17.05:249][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.02.12-17.17.05:249][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.02.12-17.17.05:249][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.02.12-17.17.05:249][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.02.12-17.17.05:264][  0]LogNetVersion: Prototype 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 393343579)
+[2023.02.12-17.17.05:399][  0]LogSlate: Border
+[2023.02.12-17.17.05:399][  0]LogSlate: BreadcrumbButton
+[2023.02.12-17.17.05:399][  0]LogSlate: Default
+[2023.02.12-17.17.05:399][  0]LogSlate: Icons.Save
+[2023.02.12-17.17.05:399][  0]LogSlate: Icons.Toolbar.Settings
+[2023.02.12-17.17.05:399][  0]LogSlate: ListView
+[2023.02.12-17.17.05:399][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.02.12-17.17.05:399][  0]LogSlate: SoftwareCursor_Grab
+[2023.02.12-17.17.05:399][  0]LogSlate: TableView.DarkRow
+[2023.02.12-17.17.05:399][  0]LogSlate: TableView.Row
+[2023.02.12-17.17.05:399][  0]LogSlate: TreeView
+[2023.02.12-17.17.05:531][  0]SourceControl: Source control is disabled
+[2023.02.12-17.17.05:551][  0]SourceControl: Source control is disabled
+[2023.02.12-17.17.05:551][  0]SourceControl: Source control is disabled
+[2023.02.12-17.17.05:648][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.02.12-17.17.05:648][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.02.12-17.17.05:648][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.02.12-17.17.05:916][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: A3DBE3124735EBD056468CB20223BFD7 | Instance: 78F3D7024B9824217F5DF9A71E0D9079 (MSI-10676).
+[2023.02.12-17.17.05:950][  0]LogPython: Using Python 3.9.7
+[2023.02.12-17.17.06:578][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.02.12-17.17.06:583][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.02.12-17.17.06:945][  0]LogOpenImageDenoise: OIDN starting up
+[2023.02.12-17.17.06:990][  0]SourceControl: Source control is disabled
+[2023.02.12-17.17.07:002][  0]SourceControl: Source control is disabled
+[2023.02.12-17.17.07:011][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.02.12-17.17.07:013][  0]LogUProjectInfo: Found projects:
+[2023.02.12-17.17.07:020][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.02.12-17.17.07:024][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.02.12-17.17.07:029][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.02.12-17.17.07:052][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.12-17.17.07:052][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.12-17.17.07:058][  0]SourceControl: Source control is disabled
+[2023.02.12-17.17.07:131][  0]LogCollectionManager: Loaded 0 collections in 0.001252 seconds
+[2023.02.12-17.17.07:205][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/Collections/' took 0.00s
+[2023.02.12-17.17.07:205][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/Developers/Junis/Collections/' took 0.00s
+[2023.02.12-17.17.07:205][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/Collections/' took 0.00s
+[2023.02.12-17.17.07:456][  0]LogEngine: Initializing Engine...
+[2023.02.12-17.17.07:465][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.02.12-17.17.07:483][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.02.12-17.17.07:691][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.02.12-17.17.07:691][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.12-17.17.07:701][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.12-17.17.07:722][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.02.12-17.17.07:723][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.02.12-17.17.07:742][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.02.12-17.17.07:743][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.02.12-17.17.07:743][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.02.12-17.17.07:743][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.02.12-17.17.07:743][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.02.12-17.17.07:743][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.12-17.17.07:743][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.12-17.17.07:743][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.12-17.17.07:743][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.12-17.17.07:743][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.12-17.17.07:743][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.12-17.17.07:743][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.12-17.17.07:743][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.12-17.17.07:743][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.12-17.17.07:744][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.12-17.17.07:744][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.12-17.17.07:750][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.12-17.17.08:083][  0]LogAudioMixer: Display: Using Audio Hardware Device Høyttalere (Realtek(R) Audio)
+[2023.02.12-17.17.08:084][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.12-17.17.08:086][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.12-17.17.08:086][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.12-17.17.08:087][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.02.12-17.17.08:087][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.02.12-17.17.08:089][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.02.12-17.17.08:089][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.02.12-17.17.08:089][  0]LogInit: FAudioDevice initialized.
+[2023.02.12-17.17.08:089][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.02.12-17.17.08:089][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.02.12-17.17.08:089][  0]LogInit: Texture streaming: Enabled
+[2023.02.12-17.17.08:123][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.02.12-17.17.08:130][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.02.12-17.17.08:149][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.02.12-17.17.08:159][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.02.12-17.17.08:159][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.02.12-17.17.10:082][  0]LogLiveCoding: Display: First instance in process group "UE_Prototype_0x6f1d8a06", spawning console
+[2023.02.12-17.17.10:082][  0]LogLiveCoding: Display: Waiting for server
+[2023.02.12-17.17.10:082][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.02.12-17.17.10:101][  0]LogInit: Transaction tracking system initialized
+[2023.02.12-17.17.10:152][  0]BlueprintLog: New page: Editor Load
+[2023.02.12-17.17.10:300][  0]LocalizationService: Localization service is disabled
+[2023.02.12-17.17.10:370][  0]TimingProfiler: Initialize
+[2023.02.12-17.17.10:370][  0]TimingProfiler: OnSessionChanged
+[2023.02.12-17.17.10:370][  0]LoadingProfiler: Initialize
+[2023.02.12-17.17.10:370][  0]LoadingProfiler: OnSessionChanged
+[2023.02.12-17.17.10:370][  0]NetworkingProfiler: Initialize
+[2023.02.12-17.17.10:370][  0]NetworkingProfiler: OnSessionChanged
+[2023.02.12-17.17.10:370][  0]MemoryProfiler: Initialize
+[2023.02.12-17.17.10:370][  0]MemoryProfiler: OnSessionChanged
+[2023.02.12-17.17.10:524][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.02.12-17.17.10:528][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.02.12-17.17.10:532][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.02.12-17.17.10:873][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/' took 0.01s
+[2023.02.12-17.17.10:873][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.02.12-17.17.10:961][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.02.12-17.17.10:963][  0]SourceControl: Source control is disabled
+[2023.02.12-17.17.10:963][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.290
+[2023.02.12-17.17.10:963][  0]LightingResults: New page: Lighting Build
+[2023.02.12-17.17.10:968][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.02.12-17.17.10:968][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.12-17.17.10:968][  0]MapCheck: New page: Map Check
+[2023.02.12-17.17.10:968][  0]LightingResults: New page: Lighting Build
+[2023.02.12-17.17.10:974][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.12-17.17.10:976][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.02.12-17.17.11:425][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.02.12-17.17.11:430][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.12-17.17.11:431][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.02.12-17.17.11:431][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.12-17.17.11:431][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.02.12-17.17.11:484][  0]LogWorldPartition: Display: WorldPartition initialize took 53 ms
+[2023.02.12-17.17.11:490][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.12-17.17.11:498][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.02.12-17.17.11:498][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.12-17.17.11:499][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.195ms to complete.
+[2023.02.12-17.17.11:499][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.536
+[2023.02.12-17.17.11:507][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.834
+[2023.02.12-17.17.11:507][  0]LogShaderCompilers: Display: ================================================
+[2023.02.12-17.17.11:507][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.12-17.17.11:507][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.02.12-17.17.11:507][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.02.12-17.17.11:507][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.02.12-17.17.11:507][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.12-17.17.11:507][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.02.12-17.17.11:507][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.02.12-17.17.11:507][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.02.12-17.17.11:507][  0]LogShaderCompilers: Display: ================================================
+[2023.02.12-17.17.11:616][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.12-17.17.11:616][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.12-17.17.11:616][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.12-17.17.11:616][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.12-17.17.11:616][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.12-17.17.11:616][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.12-17.17.11:640][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.12-17.17.11:647][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.12-17.17.11:652][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.12-17.17.11:657][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.12-17.17.11:714][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.02.12-17.17.11:714][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.12-17.17.11:721][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.02.12-17.17.11:721][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.12-17.17.11:727][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.02.12-17.17.11:727][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.12-17.17.11:733][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.02.12-17.17.11:733][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.12-17.17.11:745][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.02.12-17.17.11:745][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.12-17.17.11:751][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.02.12-17.17.11:751][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.12-17.17.11:755][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.02.12-17.17.11:755][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.12-17.17.11:760][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.02.12-17.17.11:760][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.12-17.17.11:765][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.02.12-17.17.11:765][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.12-17.17.11:771][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.02.12-17.17.11:771][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.12-17.17.11:771][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.02.12-17.17.12:046][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.12-17.17.12:059][  0]LogSlate: Took 0.008541 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.12-17.17.12:081][  0]LogViewport: Scene viewport resized to 2548x1123, mode Windowed.
+[2023.02.12-17.17.12:881][  0]LogStall: Startup...
+[2023.02.12-17.17.12:883][  0]LogStall: Startup complete.
+[2023.02.12-17.17.12:939][  0]LogLoad: (Engine Initialization) Total time: 11.27 seconds
+[2023.02.12-17.17.12:939][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.02.12-17.17.12:961][  0]LogAssetRegistry: Asset discovery search completed in 8.3745 seconds
+[2023.02.12-17.17.12:966][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.02.12-17.17.12:968][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.02.12-17.17.12:999][  0]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.12-17.17.19:678][360]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.12-17.17.19:683][360]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.12-17.17.19:684][360]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.12-17.17.19:684][360]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.12-17.17.19:684][360]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.12-17.17.19:684][360]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.02.12-17.17.19:684][360]LogWorldPartition: Display: GetPartitionedActors took 31 us
+[2023.02.12-17.17.19:684][360]LogWorldPartition: Display: GenerateStreaming took 140 us
+[2023.02.12-17.17.19:686][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.12-17.17.19:692][360]PIE: New page: PIE session: ThirdPersonMap (12 Feb 2023, 17:17:19)
+[2023.02.12-17.17.19:696][360]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.02.12-17.17.19:696][360]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.02.12-17.17.19:697][360]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.02.12-17.17.19:700][360]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.12-17.17.19:700][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003238s)
+[2023.02.12-17.17.19:700][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003575s)
+[2023.02.12-17.17.19:700][360]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.12-17.17.19:701][360]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.02.12-17.17.19:701][360]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.12-17.17.19:701][360]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.12-17.17.19:702][360]LogWorldPartition: Display: WorldPartition initialize took 640 us
+[2023.02.12-17.17.19:702][360]LogPlayLevel: PIE: World Init took: (0.002330s)
+[2023.02.12-17.17.19:710][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.12-17.17.19:711][360]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.02.12-17.17.19:711][360]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.12-17.17.19:711][360]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.12-17.17.19:711][360]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.12-17.17.19:711][360]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.12-17.17.19:711][360]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.12-17.17.19:711][360]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.12-17.17.19:711][360]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.12-17.17.19:711][360]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.12-17.17.19:712][360]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.12-17.17.19:712][360]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.12-17.17.19:712][360]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.12-17.17.19:714][360]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.12-17.17.19:832][360]LogAudioMixer: Display: Using Audio Hardware Device Høyttalere (Realtek(R) Audio)
+[2023.02.12-17.17.19:837][360]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.12-17.17.19:837][360]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.12-17.17.19:837][360]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.12-17.17.19:847][360]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.02.12-17.17.19:847][360]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.02.12-17.17.19:850][360]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.02.12-17.17.19:850][360]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.02.12-17.17.19:850][360]LogInit: FAudioDevice initialized.
+[2023.02.12-17.17.19:850][360]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2023.02.12-17.17.19:873][360]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.02.12-17.17.19:875][360]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.02.12-17.17.19
+[2023.02.12-17.17.19:884][360]LogWorld: Bringing up level for play took: 0.010652
+[2023.02.12-17.17.19:887][360]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2023.02.12-17.17.19:927][360]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=965.454 Y=990.006 Z=122.342
+[2023.02.12-17.17.19:927][360]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.12-17.17.19:932][360]PIE: Server logged in
+[2023.02.12-17.17.19:933][360]PIE: Play in editor total start time 0.251 seconds.
+[2023.02.12-17.18.01:740][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.12-17.18.01:740][101]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.02.12-17.18.01:741][101]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.12-17.18.01:744][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.12-17.18.01:763][101]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.12-17.18.01:765][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.12-17.18.01:771][101]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.12-17.18.01:771][101]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.02.12-17.18.01:773][101]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.02.12-17.18.01:778][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.12-17.18.01:780][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.02.12-17.18.01:808][102]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2023.02.12-17.19.04:032][613]LogDerivedDataCache: C:/Users/Junis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.278 and deleted 0 file(s) with total size 0 MiB.
+[2023.02.12-17.30.45:167][767]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.12-17.30.45:177][767]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.12-17.30.48:556][873]LogStatusBar: Looking status bar with open content browser drawer...
+[2023.02.12-17.30.48:556][873]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2023.02.12-17.30.48:573][873]LogViewport: Scene viewport resized to 2548x663, mode Windowed.
+[2023.02.12-17.31.20:388][127]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.12-17.31.20:445][127]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.12-17.31.20:455][128]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.12-17.31.22:117][197]LogContentBrowser: Attempting asset rename: NewFolder -> HUD
+[2023.02.12-17.31.22:117][197]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.12-17.31.26:218][342]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/HUD/ChargeBarHud.ChargeBarHud_C' ref from Metadata '/Game/ThirdPerson/Blueprints/ChargeBarHud.PackageMetaData'
+[2023.02.12-17.31.26:218][342]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/HUD/ChargeBarHud.ChargeBarHud:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPerson/Blueprints/ChargeBarHud.PackageMetaData'
+[2023.02.12-17.31.26:218][342]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/HUD/ChargeBarHud.ChargeBarHud:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPerson/Blueprints/ChargeBarHud.PackageMetaData'
+[2023.02.12-17.31.26:218][342]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/HUD/ChargeBarHud.ChargeBarHud:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPerson/Blueprints/ChargeBarHud.PackageMetaData'
+[2023.02.12-17.31.26:218][342]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/HUD/ChargeBarHud.ChargeBarHud:GetPercent_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPerson/Blueprints/ChargeBarHud.PackageMetaData'
+[2023.02.12-17.31.26:218][342]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/HUD/ChargeBarHud.ChargeBarHud:GetPercent_0.K2Node_FunctionResult_0' ref from Metadata '/Game/ThirdPerson/Blueprints/ChargeBarHud.PackageMetaData'
+[2023.02.12-17.31.26:218][342]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/HUD/ChargeBarHud.SKEL_ChargeBarHud_C:PreConstruct' ref from Metadata '/Game/ThirdPerson/Blueprints/ChargeBarHud.PackageMetaData'
+[2023.02.12-17.31.26:218][342]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/HUD/ChargeBarHud.SKEL_ChargeBarHud_C:Construct' ref from Metadata '/Game/ThirdPerson/Blueprints/ChargeBarHud.PackageMetaData'
+[2023.02.12-17.31.26:218][342]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/HUD/ChargeBarHud.SKEL_ChargeBarHud_C:Tick' ref from Metadata '/Game/ThirdPerson/Blueprints/ChargeBarHud.PackageMetaData'
+[2023.02.12-17.31.26:218][342]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/HUD/ChargeBarHud.SKEL_ChargeBarHud_C' ref from Metadata '/Game/ThirdPerson/Blueprints/ChargeBarHud.PackageMetaData'
+[2023.02.12-17.31.26:218][342]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/HUD/ChargeBarHud.ChargeBarHud_C:Tick' ref from Metadata '/Game/ThirdPerson/Blueprints/ChargeBarHud.PackageMetaData'
+[2023.02.12-17.31.26:404][342]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.005147 seconds
+[2023.02.12-17.31.26:464][342]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.02.12-17.31.26:466][342]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/BP_ThirdPersonCharacterF2CF40594591DCF939D2C4B7E7E57342.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.02.12-17.31.26:480][342]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/HUD/ChargeBarHud
+[2023.02.12-17.31.26:480][342]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/ChargeBarHudB1FC3ADB4C77099386E5A69C79EF89F1.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/ThirdPerson/Blueprints/HUD/ChargeBarHud.uasset'
+[2023.02.12-17.31.26:527][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.02.12-17.31.26:541][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.02.12-17.31.26:554][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.02.12-17.31.26:630][342]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.12-17.31.26:630][342]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.02.12-17.31.26:631][342]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPerson/Blueprints/HUD/ChargeBarHud.ChargeBarHud
+[2023.02.12-17.31.31:005][502]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.12-17.31.31:016][502]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.12-17.31.31:023][503]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.12-17.31.49:945][258]LogContentBrowser: Attempting asset rename: NewFolder -> CameraAndCharacter
+[2023.02.12-17.31.49:945][258]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.12-17.32.09:271][690]LogSlate: Window 'Message' being destroyed
+[2023.02.12-17.32.09:293][690]Message dialog closed, result: Yes, title: Message, text: The following assets are referenced by one or more Class Default Objects: 
+
+BP_ThirdPersonGameMode (project settings soft reference)
+
+Continuing with the rename may require changes to fix references in code or project settings. Assets could otherwise be missing in cooked/packaged builds. Do you wish to continue?
+[2023.02.12-17.32.09:299][690]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.PackageMetaData'
+[2023.02.12-17.32.09:299][690]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonGameMode.SKEL_BP_ThirdPersonGameMode_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.PackageMetaData'
+[2023.02.12-17.32.09:299][690]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonGameMode.SKEL_BP_ThirdPersonGameMode_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.PackageMetaData'
+[2023.02.12-17.32.09:302][690]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.02.12-17.32.09:302][690]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:InpAxisEvt_Move Right / Left_K2Node_InputAxisEvent_19' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.02.12-17.32.09:302][690]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.02.12-17.32.09:302][690]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:ReceiveTick' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.02.12-17.32.09:302][690]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:FillBar' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.02.12-17.32.09:302][690]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:DrainBar' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.02.12-17.32.09:302][690]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.02.12-17.32.09:302][690]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.02.12-17.32.09:302][690]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ReceiveTick' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.02.12-17.32.09:303][690]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.02.12-17.32.09:306][690]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_CameraManager.BP_CameraManager:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_CameraManager.PackageMetaData'
+[2023.02.12-17.32.09:306][690]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_CameraManager.BP_CameraManager_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_CameraManager.PackageMetaData'
+[2023.02.12-17.32.09:306][690]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_CameraManager.BP_CameraManager:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_CameraManager.PackageMetaData'
+[2023.02.12-17.32.09:306][690]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_CameraManager.BP_CameraManager:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_CameraManager.PackageMetaData'
+[2023.02.12-17.32.09:306][690]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_CameraManager.BP_CameraManager:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_CameraManager.PackageMetaData'
+[2023.02.12-17.32.09:306][690]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_CameraManager.BP_CameraManager:UpdateCameraPosition.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_CameraManager.PackageMetaData'
+[2023.02.12-17.32.09:306][690]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_CameraManager.SKEL_BP_CameraManager_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_CameraManager.PackageMetaData'
+[2023.02.12-17.32.09:306][690]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_CameraManager.SKEL_BP_CameraManager_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_CameraManager.PackageMetaData'
+[2023.02.12-17.32.09:306][690]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_CameraManager.SKEL_BP_CameraManager_C:ReceiveTick' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_CameraManager.PackageMetaData'
+[2023.02.12-17.32.09:306][690]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_CameraManager.SKEL_BP_CameraManager_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_CameraManager.PackageMetaData'
+[2023.02.12-17.32.09:306][690]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_CameraManager.SKEL_BP_CameraManager_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_CameraManager.PackageMetaData'
+[2023.02.12-17.32.09:306][690]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_CameraManager.BP_CameraManager_C:ReceiveTick' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_CameraManager.PackageMetaData'
+[2023.02.12-17.32.09:375][690]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/HUD/ChargeBarHud
+[2023.02.12-17.32.09:376][690]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/ChargeBarHud8FCCE0AD4C4EC9C670F2568859C0BEB8.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/ThirdPerson/Blueprints/HUD/ChargeBarHud.uasset'
+[2023.02.12-17.32.09:379][690]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonGameMode
+[2023.02.12-17.32.09:379][690]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/BP_ThirdPersonGameMode420BEEF64AF50486A288AB9AA0D6A98D.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonGameMode.uasset'
+[2023.02.12-17.32.09:382][690]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2023.02.12-17.32.09:383][690]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/BP_ThirdPersonGameModeFA72BA234A95A14635F70898533E84F0.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2023.02.12-17.32.09:479][690]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter
+[2023.02.12-17.32.09:479][690]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/BP_ThirdPersonCharacterD4D4576A4841975349C3F8950D5BC445.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.uasset'
+[2023.02.12-17.32.09:486][690]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_CameraManager
+[2023.02.12-17.32.09:486][690]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/BP_CameraManager8C511E714D78838CC924B18BA72F6C4E.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/ThirdPerson/Blueprints/CameraAndCharacter/BP_CameraManager.uasset'
+[2023.02.12-17.32.09:523][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.02.12-17.32.09:533][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.02.12-17.32.09:541][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.02.12-17.32.09:588][690]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.12-17.32.09:588][690]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2023.02.12-17.32.09:588][690]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.Default__BP_ThirdPersonGameMode_C
+[2023.02.12-17.32.09:588][690]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C
+[2023.02.12-17.32.09:588][690]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_CameraManager.BP_CameraManager
+[2023.02.12-17.32.09:588][690]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.02.12-17.32.09:588][690]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPerson/Blueprints/HUD/ChargeBarHud.ChargeBarHud
+[2023.02.12-17.32.09:589][690]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2023.02.12-17.32.42:684][107]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.12-17.32.42:693][107]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.12-17.32.42:701][108]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.12-17.32.52:363][509]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2023.02.12-17.32.52:363][509]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.12-17.33.02:786][922]LogMetaData: Removing '/Game/Blueprints/BP_Enemy.BP_Enemy:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Enemy.PackageMetaData'
+[2023.02.12-17.33.02:786][922]LogMetaData: Removing '/Game/Blueprints/BP_Enemy.BP_Enemy_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Enemy.PackageMetaData'
+[2023.02.12-17.33.02:786][922]LogMetaData: Removing '/Game/Blueprints/BP_Enemy.BP_Enemy:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Enemy.PackageMetaData'
+[2023.02.12-17.33.02:786][922]LogMetaData: Removing '/Game/Blueprints/BP_Enemy.BP_Enemy:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Enemy.PackageMetaData'
+[2023.02.12-17.33.02:786][922]LogMetaData: Removing '/Game/Blueprints/BP_Enemy.BP_Enemy:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Enemy.PackageMetaData'
+[2023.02.12-17.33.02:786][922]LogMetaData: Removing '/Game/Blueprints/BP_Enemy.SKEL_BP_Enemy_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Enemy.PackageMetaData'
+[2023.02.12-17.33.02:786][922]LogMetaData: Removing '/Game/Blueprints/BP_Enemy.SKEL_BP_Enemy_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Enemy.PackageMetaData'
+[2023.02.12-17.33.02:786][922]LogMetaData: Removing '/Game/Blueprints/BP_Enemy.SKEL_BP_Enemy_C:ReceiveTick' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Enemy.PackageMetaData'
+[2023.02.12-17.33.02:786][922]LogMetaData: Removing '/Game/Blueprints/BP_Enemy.SKEL_BP_Enemy_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Enemy.PackageMetaData'
+[2023.02.12-17.33.02:786][922]LogMetaData: Removing '/Game/Blueprints/BP_Enemy.SKEL_BP_Enemy_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Enemy.PackageMetaData'
+[2023.02.12-17.33.02:786][922]LogMetaData: Removing '/Game/Blueprints/BP_Enemy.BP_Enemy_C:ReceiveTick' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Enemy.PackageMetaData'
+[2023.02.12-17.33.02:786][922]LogMetaData: Removing '/Game/Blueprints/BP_Enemy.BP_Enemy_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Enemy.PackageMetaData'
+[2023.02.12-17.33.02:868][922]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/0X/HESTHMWAG68YEWBDYBZF9Y
+[2023.02.12-17.33.02:870][922]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/HESTHMWAG68YEWBDYBZF9YB9E8549249E2B557408ABCB1C267CC57.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/0X/HESTHMWAG68YEWBDYBZF9Y.uasset'
+[2023.02.12-17.33.02:879][922]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Enemy
+[2023.02.12-17.33.02:879][922]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/BP_EnemyF45C4AD944E273B74FADADBBD0FFFEDB.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/Blueprints/BP_Enemy.uasset'
+[2023.02.12-17.33.02:913][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.02.12-17.33.02:924][922]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2023.02.12-17.33.02:932][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.02.12-17.33.02:980][922]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.12-17.33.02:980][922]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2023.02.12-17.33.02:980][922]LogContentValidation: Display: Validating BP_Enemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_C8D9D21A12B0486501_1082221488
+[2023.02.12-17.33.08:013][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.02.12-17.33.08:097][110]LogFileHelpers: No new changes to save!
+[2023.02.12-17.33.08:110][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.02.12-17.33.08:115][110]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.02.12-17.33.08:116][110]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/ThirdPersonMap0250A7EB40B3BE8F5218E8B3BA3DC9CD.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2023.02.12-17.33.08:130][110]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.034
+[2023.02.12-17.33.08:148][110]AssetCheck: New page: Asset Save: ThirdPersonMap
+[2023.02.12-17.33.08:148][110]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2023.02.12-17.33.09:569][170]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.12-17.33.09:581][170]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.12-17.33.09:581][170]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.12-17.33.09:581][170]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.12-17.33.09:581][170]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.12-17.33.09:581][170]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.02.12-17.33.09:581][170]LogWorldPartition: Display: GetPartitionedActors took 74 us
+[2023.02.12-17.33.09:582][170]LogWorldPartition: Display: GenerateStreaming took 336 us
+[2023.02.12-17.33.09:582][170]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.12-17.33.09:656][170]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2023.02.12-17.33.09:697][170]LogPlayLevel: [PlayLevel] Compiling ChargeBarHud before play...
+[2023.02.12-17.33.09:715][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.02.12-17.33.09:716][170]LogPlayLevel: PlayLevel: Blueprint regeneration took 134 ms (2 blueprints)
+[2023.02.12-17.33.09:716][170]PIE: New page: PIE session: ThirdPersonMap (12 Feb 2023, 17:33:09)
+[2023.02.12-17.33.09:716][170]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.02.12-17.33.09:720][170]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.12-17.33.09:720][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003914s)
+[2023.02.12-17.33.09:720][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003973s)
+[2023.02.12-17.33.09:721][170]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.12-17.33.09:721][170]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.02.12-17.33.09:722][170]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.12-17.33.09:722][170]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.12-17.33.09:723][170]LogWorldPartition: Display: WorldPartition initialize took 903 us
+[2023.02.12-17.33.09:723][170]LogPlayLevel: PIE: World Init took: (0.002895s)
+[2023.02.12-17.33.09:732][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.02.12-17.33.09:732][170]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.02.12-17.33.09:732][170]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.12-17.33.09:732][170]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.12-17.33.09:732][170]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.12-17.33.09:732][170]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.12-17.33.09:732][170]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.12-17.33.09:732][170]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.12-17.33.09:732][170]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.12-17.33.09:732][170]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.12-17.33.09:733][170]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.12-17.33.09:733][170]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.12-17.33.09:733][170]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.12-17.33.09:736][170]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.12-17.33.09:850][170]LogAudioMixer: Display: Using Audio Hardware Device Høyttalere (Realtek(R) Audio)
+[2023.02.12-17.33.09:851][170]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.12-17.33.09:851][170]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.12-17.33.09:851][170]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.12-17.33.09:859][170]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.02.12-17.33.09:859][170]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.02.12-17.33.09:861][170]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.02.12-17.33.09:861][170]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.02.12-17.33.09:861][170]LogInit: FAudioDevice initialized.
+[2023.02.12-17.33.09:861][170]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2023.02.12-17.33.09:879][170]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.02.12-17.33.09:881][170]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.02.12-17.33.09
+[2023.02.12-17.33.09:881][170]LogWorld: Bringing up level for play took: 0.001752
+[2023.02.12-17.33.09:883][170]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2023.02.12-17.33.09:888][170]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=965.454 Y=990.006 Z=122.342
+[2023.02.12-17.33.09:888][170]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.12-17.33.09:890][170]PIE: Server logged in
+[2023.02.12-17.33.09:891][170]PIE: Play in editor total start time 0.311 seconds.
+[2023.02.12-17.33.32:691][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.12-17.33.32:691][132]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.02.12-17.33.32:691][132]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.12-17.33.32:691][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.12-17.33.32:709][132]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.12-17.33.32:710][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.12-17.33.32:718][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.12-17.33.32:718][132]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.02.12-17.33.32:720][132]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.02.12-17.33.32:731][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.02.12-17.33.32:762][133]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.02.12-17.34.10:647][571]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.02.12-17.34.10:648][571]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.12-17.34.11:828][571]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.12-17.34.11:973][572]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.12-17.34.19:598][804]LogBlueprint: Warning: [AssetLog] C:\Users\Junis\OneDrive\Dokumenter\Hedda\Uni\DES203\UnrealDevelopment\DES203-Game-Project\Prototype\Content\ThirdPerson\Blueprints\CameraAndCharacter\BP_ThirdPersonCharacter.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Event BeginPlay  and was replaced as a Custom Event!
+[2023.02.12-17.34.26:813][804]LogSlate: Window 'Fix Self Context Function References' being destroyed
+[2023.02.12-17.35.42:854][359]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter
+[2023.02.12-17.35.42:855][359]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/BP_ThirdPersonCharacter21EDABBD40866281174AA6A9E80B1BDA.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.uasset'
+[2023.02.12-17.35.42:874][359]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.02.12-17.35.42:874][359]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.02.12-17.36.27:309][848]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2023.02.12-17.36.27:309][848]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.12-17.36.33:068][  2]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.02.12-17.36.33:068][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.12-17.36.33:111][  2]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2023.02.12-17.36.33:111][  2]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.12-17.37.11:920][920]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonGameMode
+[2023.02.12-17.37.11:921][920]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/BP_ThirdPersonGameMode2BB0DA9246CD882E44691FB949881D80.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonGameMode.uasset'
+[2023.02.12-17.37.11:937][920]AssetCheck: New page: Asset Save: BP_ThirdPersonGameMode
+[2023.02.12-17.37.11:937][920]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2023.02.12-17.38.34:725][ 82]LogLinker: Warning: Failed to load '/Game/Blueprints/Objects/RespawnPoint': Can't find file.
+[2023.02.12-17.38.34:726][ 82]LogLinker: Warning: Failed to load '/Game/Blueprints/Objects/RespawnPoint': Can't find file.
+[2023.02.12-17.38.34:727][ 82]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Blueprints/Objects/RespawnPoint.RespawnPoint'
+[2023.02.12-17.38.34:728][ 82]LogLinker: Warning: Failed to load '/Game/Blueprints/Objects/WaterClass': Can't find file.
+[2023.02.12-17.38.34:728][ 82]LogLinker: Warning: Failed to load '/Game/Blueprints/Objects/WaterClass': Can't find file.
+[2023.02.12-17.38.34:728][ 82]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Blueprints/Objects/WaterClass.WaterClass'
+[2023.02.12-17.39.02:356][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.02.12-17.41.35:120][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.02.12-17.41.38:527][372]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.02.12-17.41.42:676][508]BlueprintLog: New page: Compile BP_ThirdPersonGameMode
+[2023.02.12-17.41.42:750][508]LogBlueprint: Warning: [AssetLog] C:\Users\Junis\OneDrive\Dokumenter\Hedda\Uni\DES203\UnrealDevelopment\DES203-Game-Project\Prototype\Content\ThirdPerson\Blueprints\CameraAndCharacter\BP_ThirdPersonGameMode.uasset: [Compiler] Can't parse default value '(Rotation=(X=0.000000,Y=0.000000,Z=0.000000,W=1.000000),Translation=(X=0.000000,Y=0.000000,Z=0.000000),Scale3D=(X=1.000000,Y=1.000000,Z=1.000000))' for  Respawn Transform . Property: Respawn Transform.
+[2023.02.12-17.41.42:800][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.02.12-17.41.53:841][863]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.02.12-17.41.53:901][863]LogBlueprint: Error: [AssetLog] C:\Users\Junis\OneDrive\Dokumenter\Hedda\Uni\DES203\UnrealDevelopment\DES203-Game-Project\Prototype\Content\ThirdPerson\Blueprints\CameraAndCharacter\BP_ThirdPersonCharacter.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.02.12-17.41.53:905][863]LogBlueprint: Error: [AssetLog] C:\Users\Junis\OneDrive\Dokumenter\Hedda\Uni\DES203\UnrealDevelopment\DES203-Game-Project\Prototype\Content\ThirdPerson\Blueprints\CameraAndCharacter\BP_ThirdPersonCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Update Respawn Location . Please refresh node or break links to remove pin.
+[2023.02.12-17.41.53:905][863]LogBlueprint: Error: [AssetLog] C:\Users\Junis\OneDrive\Dokumenter\Hedda\Uni\DES203\UnrealDevelopment\DES203-Game-Project\Prototype\Content\ThirdPerson\Blueprints\CameraAndCharacter\BP_ThirdPersonCharacter.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Respawn Transform . Please refresh node or break links to remove pin.
+[2023.02.12-17.41.53:906][863]LogBlueprint: Warning: [AssetLog] C:\Users\Junis\OneDrive\Dokumenter\Hedda\Uni\DES203\UnrealDevelopment\DES203-Game-Project\Prototype\Content\ThirdPerson\Blueprints\CameraAndCharacter\BP_ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "Respawn Transform" in 'BP_ThirdPersonCharacter'.
+Make sure 'BP_ThirdPersonCharacter' has been compiled for  Set Respawn Transform
+[2023.02.12-17.41.53:912][863]LogBlueprint: Error: [AssetLog] C:\Users\Junis\OneDrive\Dokumenter\Hedda\Uni\DES203\UnrealDevelopment\DES203-Game-Project\Prototype\Content\ThirdPerson\Blueprints\CameraAndCharacter\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2023.02.12-17.41.53:914][863]LogBlueprint: Error: [AssetLog] C:\Users\Junis\OneDrive\Dokumenter\Hedda\Uni\DES203\UnrealDevelopment\DES203-Game-Project\Prototype\Content\ThirdPerson\Blueprints\CameraAndCharacter\BP_ThirdPersonCharacter.uasset: [Compiler] The property associated with  Respawn Transform  could not be found in '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C'
+[2023.02.12-17.41.53:998][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.02.12-17.42.30:136][774]LogBlueprint: Error: [AssetLog] C:\Users\Junis\OneDrive\Dokumenter\Hedda\Uni\DES203\UnrealDevelopment\DES203-Game-Project\Prototype\Content\Blueprints\Objects\HUD_Proto.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.02.12-17.42.30:136][774]LogBlueprint: Error: [AssetLog] C:\Users\Junis\OneDrive\Dokumenter\Hedda\Uni\DES203\UnrealDevelopment\DES203-Game-Project\Prototype\Content\Blueprints\Objects\HUD_Proto.uasset: [Compiler] In use pin  As BP Third Person Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2023.02.12-17.42.30:136][774]LogBlueprint: Error: [AssetLog] C:\Users\Junis\OneDrive\Dokumenter\Hedda\Uni\DES203\UnrealDevelopment\DES203-Game-Project\Prototype\Content\Blueprints\Objects\HUD_Proto.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.02.12-17.42.30:136][774]LogBlueprint: Warning: [AssetLog] C:\Users\Junis\OneDrive\Dokumenter\Hedda\Uni\DES203\UnrealDevelopment\DES203-Game-Project\Prototype\Content\Blueprints\Objects\HUD_Proto.uasset: [Compiler] Could not find a variable named "Dryness" in 'HUD_Proto'.
+Make sure 'HUD_Proto' has been compiled for  Get Dryness
+[2023.02.12-17.42.30:139][774]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Objects/HUD_Proto.HUD_Proto
+[2023.02.12-17.42.30:139][774]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.12-17.42.30:165][774]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.12-17.42.30:180][774]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.02.12-17.42.30:591][774]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.12-17.42.30:591][774]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.12-17.42.30:968][774]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.02.12-17.42.35:784][932]LogSlate: Took 0.012893 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.02.12-17.43.08:074][990]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.12-17.43.08:074][990]LogEditorClassViewer: Warning: Class /Game/Blueprints/Objects/HUD_Proto.PLACEHOLDER-CLASS__BP_ThirdPersonCharacter_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.12-17.43.14:125][175]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter
+[2023.02.12-17.43.14:126][175]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/BP_ThirdPersonCharacter7A46FCFF43967C624DBCC3A13A2CF560.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.uasset'
+[2023.02.12-17.43.14:146][175]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.02.12-17.43.14:146][175]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.02.12-17.43.14:847][199]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.02.12-17.43.14:864][199]LogBlueprint: Error: [AssetLog] C:\Users\Junis\OneDrive\Dokumenter\Hedda\Uni\DES203\UnrealDevelopment\DES203-Game-Project\Prototype\Content\ThirdPerson\Blueprints\CameraAndCharacter\BP_ThirdPersonCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Update Respawn Location . Please refresh node or break links to remove pin.
+[2023.02.12-17.43.14:865][199]LogBlueprint: Error: [AssetLog] C:\Users\Junis\OneDrive\Dokumenter\Hedda\Uni\DES203\UnrealDevelopment\DES203-Game-Project\Prototype\Content\ThirdPerson\Blueprints\CameraAndCharacter\BP_ThirdPersonCharacter.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Respawn Transform . Please refresh node or break links to remove pin.
+[2023.02.12-17.43.14:865][199]LogBlueprint: Warning: [AssetLog] C:\Users\Junis\OneDrive\Dokumenter\Hedda\Uni\DES203\UnrealDevelopment\DES203-Game-Project\Prototype\Content\ThirdPerson\Blueprints\CameraAndCharacter\BP_ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "Respawn Transform" in 'BP_ThirdPersonCharacter'.
+Make sure 'BP_ThirdPersonCharacter' has been compiled for  Set Respawn Transform
+[2023.02.12-17.43.14:869][199]LogBlueprint: Error: [AssetLog] C:\Users\Junis\OneDrive\Dokumenter\Hedda\Uni\DES203\UnrealDevelopment\DES203-Game-Project\Prototype\Content\ThirdPerson\Blueprints\CameraAndCharacter\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2023.02.12-17.43.14:870][199]LogBlueprint: Error: [AssetLog] C:\Users\Junis\OneDrive\Dokumenter\Hedda\Uni\DES203\UnrealDevelopment\DES203-Game-Project\Prototype\Content\ThirdPerson\Blueprints\CameraAndCharacter\BP_ThirdPersonCharacter.uasset: [Compiler] The property associated with  Respawn Transform  could not be found in '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C'
+[2023.02.12-17.43.14:998][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.02.12-17.45.32:335][673]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter
+[2023.02.12-17.45.32:336][673]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/BP_ThirdPersonCharacterCE75C4004D9FAB73141CB383360798A9.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.uasset'
+[2023.02.12-17.45.32:360][673]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.02.12-17.45.32:360][673]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.02.12-17.45.33:114][699]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.02.12-17.45.33:128][699]LogBlueprint: Error: [AssetLog] C:\Users\Junis\OneDrive\Dokumenter\Hedda\Uni\DES203\UnrealDevelopment\DES203-Game-Project\Prototype\Content\ThirdPerson\Blueprints\CameraAndCharacter\BP_ThirdPersonCharacter.uasset: [Compiler] In use pin  Target  no longer exists on node  Set Respawn Transform . Please refresh node or break links to remove pin.
+[2023.02.12-17.45.33:128][699]LogBlueprint: Warning: [AssetLog] C:\Users\Junis\OneDrive\Dokumenter\Hedda\Uni\DES203\UnrealDevelopment\DES203-Game-Project\Prototype\Content\ThirdPerson\Blueprints\CameraAndCharacter\BP_ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "Respawn Transform" in 'BP_ThirdPersonCharacter'.
+Make sure 'BP_ThirdPersonCharacter' has been compiled for  Set Respawn Transform
+[2023.02.12-17.45.33:132][699]LogBlueprint: Error: [AssetLog] C:\Users\Junis\OneDrive\Dokumenter\Hedda\Uni\DES203\UnrealDevelopment\DES203-Game-Project\Prototype\Content\ThirdPerson\Blueprints\CameraAndCharacter\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2023.02.12-17.45.33:133][699]LogBlueprint: Error: [AssetLog] C:\Users\Junis\OneDrive\Dokumenter\Hedda\Uni\DES203\UnrealDevelopment\DES203-Game-Project\Prototype\Content\ThirdPerson\Blueprints\CameraAndCharacter\BP_ThirdPersonCharacter.uasset: [Compiler] The property associated with  Respawn Transform  could not be found in '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C'
+[2023.02.12-17.45.33:250][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.02.12-17.46.18:430][153]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonGameMode
+[2023.02.12-17.46.18:431][153]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/BP_ThirdPersonGameMode242919F64F95F75E23FA2989777AD7B6.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonGameMode.uasset'
+[2023.02.12-17.46.18:445][153]AssetCheck: New page: Asset Save: BP_ThirdPersonGameMode
+[2023.02.12-17.46.18:445][153]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2023.02.12-17.46.19:459][187]BlueprintLog: New page: Compile BP_ThirdPersonGameMode
+[2023.02.12-17.46.19:564][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.02.12-17.46.26:345][396]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter
+[2023.02.12-17.46.26:346][396]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/BP_ThirdPersonCharacter428D1A004AAD54B8304209BFACD57021.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.uasset'
+[2023.02.12-17.46.26:362][396]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.02.12-17.46.26:363][396]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.02.12-17.46.27:119][422]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.02.12-17.46.27:132][422]LogBlueprint: Warning: [AssetLog] C:\Users\Junis\OneDrive\Dokumenter\Hedda\Uni\DES203\UnrealDevelopment\DES203-Game-Project\Prototype\Content\ThirdPerson\Blueprints\CameraAndCharacter\BP_ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "Respawn Transform" in 'BP_ThirdPersonCharacter'.
+Make sure 'BP_ThirdPersonCharacter' has been compiled for  Set Respawn Transform
+[2023.02.12-17.46.27:136][422]LogBlueprint: Error: [AssetLog] C:\Users\Junis\OneDrive\Dokumenter\Hedda\Uni\DES203\UnrealDevelopment\DES203-Game-Project\Prototype\Content\ThirdPerson\Blueprints\CameraAndCharacter\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2023.02.12-17.46.27:138][422]LogBlueprint: Error: [AssetLog] C:\Users\Junis\OneDrive\Dokumenter\Hedda\Uni\DES203\UnrealDevelopment\DES203-Game-Project\Prototype\Content\ThirdPerson\Blueprints\CameraAndCharacter\BP_ThirdPersonCharacter.uasset: [Compiler] The property associated with  Respawn Transform  could not be found in '/Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C'
+[2023.02.12-17.46.27:250][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.02.12-17.46.53:935][251]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter
+[2023.02.12-17.46.53:937][251]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/BP_ThirdPersonCharacter6EF2CD384758B6CF30D548A404466780.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.uasset'
+[2023.02.12-17.46.53:955][251]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.02.12-17.46.53:955][251]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.02.12-17.47.03:119][547]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter
+[2023.02.12-17.47.03:120][547]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/BP_ThirdPersonCharacterFF71310B40577D2606F4DD8EE1DA046C.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.uasset'
+[2023.02.12-17.47.03:144][547]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.02.12-17.47.03:145][547]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.02.12-17.47.04:092][579]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.02.12-17.47.04:306][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.02.12-17.47.18:263][  5]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter
+[2023.02.12-17.47.18:265][  5]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/BP_ThirdPersonCharacter14BE80BA413AEE10510646AB59180E98.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.uasset'
+[2023.02.12-17.47.18:289][  5]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.02.12-17.47.18:289][  5]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.02.12-17.47.38:176][648]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter
+[2023.02.12-17.47.38:177][648]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/BP_ThirdPersonCharacter87C860E7456504B5809915861B52E6EE.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.uasset'
+[2023.02.12-17.47.38:196][648]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.02.12-17.47.38:196][648]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.02.12-17.47.39:618][690]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter
+[2023.02.12-17.47.39:619][690]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/BP_ThirdPersonCharacterBD0BEEB44CDEEC589370A1B6FC7B6A33.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.uasset'
+[2023.02.12-17.47.39:636][690]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.02.12-17.47.39:636][690]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.02.12-17.47.40:637][724]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.02.12-17.47.40:785][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.02.12-17.47.42:738][779]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter
+[2023.02.12-17.47.42:739][779]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/BP_ThirdPersonCharacterADDCB7494B723DFC199B498CC7E64D3C.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.uasset'
+[2023.02.12-17.47.42:762][779]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.02.12-17.47.42:762][779]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.02.12-17.47.50:185][ 18]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter
+[2023.02.12-17.47.50:187][ 18]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/BP_ThirdPersonCharacter2BB64695457CCE0932468BA7551EB3CD.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.uasset'
+[2023.02.12-17.47.50:203][ 18]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.02.12-17.47.50:203][ 18]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.02.12-17.47.52:597][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2023.02.12-17.48.51:150][161]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter
+[2023.02.12-17.48.51:151][161]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/BP_ThirdPersonCharacterC810570049311F6BDE7BCD85CFA8833C.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.uasset'
+[2023.02.12-17.48.51:164][161]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.02.12-17.48.51:164][161]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/CameraAndCharacter/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.02.12-17.48.55:727][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.02.12-17.48.56:736][722]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.12-17.48.56:742][722]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.12-17.48.56:742][722]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.12-17.48.56:742][722]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.12-17.48.56:743][722]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.12-17.48.56:743][722]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.02.12-17.48.56:743][722]LogWorldPartition: Display: GetPartitionedActors took 64 us
+[2023.02.12-17.48.56:743][722]LogWorldPartition: Display: GenerateStreaming took 337 us
+[2023.02.12-17.48.56:744][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.12-17.48.56:745][722]BlueprintLog: Warning: Blueprint failed to compile:  HUD_Proto
+[2023.02.12-17.48.56:746][722]LogCustomDialog: Dialog displayed:
+[2023.02.12-17.49.05:590][722]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.02.12-17.49.26:437][388]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.12-17.49.26:653][393]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny_Simple) ...
+[2023.02.12-17.50.33:614][558]LogSavePackage: Moving output files for package: /Game/Blueprints/Objects/HUD_Proto
+[2023.02.12-17.50.33:614][558]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/HUD_ProtoA24306B04D8A4C73DAC6D49A97E18BEF.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/Blueprints/Objects/HUD_Proto.uasset'
+[2023.02.12-17.50.33:625][558]AssetCheck: New page: Asset Save: HUD_Proto
+[2023.02.12-17.50.33:625][558]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Objects/HUD_Proto.HUD_Proto
+[2023.02.12-17.50.35:079][671]LogSavePackage: Moving output files for package: /Game/Blueprints/Objects/HUD_Proto
+[2023.02.12-17.50.35:080][671]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Saved/HUD_Proto8D66403E488C374D97E734BBA9FA8D69.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/Uni/DES203/UnrealDevelopment/DES203-Game-Project/Prototype/Content/Blueprints/Objects/HUD_Proto.uasset'
+[2023.02.12-17.50.35:089][671]AssetCheck: New page: Asset Save: HUD_Proto
+[2023.02.12-17.50.35:090][671]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Objects/HUD_Proto.HUD_Proto
+[2023.02.12-17.50.35:947][741]BlueprintLog: New page: Compile HUD_Proto
+[2023.02.12-17.50.36:028][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.02.12-17.50.38:657][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.02.12-17.50.43:855][406]LogSlate: Window 'Message Log' being destroyed
+[2023.02.12-17.50.43:868][406]LogSlate: Window 'Message Log' being destroyed
+[2023.02.12-17.50.46:101][669]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.12-17.50.46:107][669]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.12-17.50.46:107][669]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.12-17.50.46:107][669]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.12-17.50.46:107][669]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.12-17.50.46:107][669]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.02.12-17.50.46:107][669]LogWorldPartition: Display: GetPartitionedActors took 55 us
+[2023.02.12-17.50.46:107][669]LogWorldPartition: Display: GenerateStreaming took 301 us
+[2023.02.12-17.50.46:108][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.12-17.50.46:108][669]PIE: New page: PIE session: ThirdPersonMap (12 Feb 2023, 17:50:46)
+[2023.02.12-17.50.46:130][669]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.02.12-17.50.46:132][669]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.12-17.50.46:132][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002325s)
+[2023.02.12-17.50.46:132][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002385s)
+[2023.02.12-17.50.46:132][669]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.12-17.50.46:132][669]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.02.12-17.50.46:133][669]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.12-17.50.46:133][669]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.12-17.50.46:133][669]LogWorldPartition: Display: WorldPartition initialize took 442 us
+[2023.02.12-17.50.46:133][669]LogPlayLevel: PIE: World Init took: (0.001219s)
+[2023.02.12-17.50.46:164][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.02.12-17.50.46:165][669]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.02.12-17.50.46:166][669]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.12-17.50.46:166][669]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.12-17.50.46:166][669]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.12-17.50.46:166][669]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.12-17.50.46:166][669]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.12-17.50.46:166][669]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.12-17.50.46:166][669]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.12-17.50.46:166][669]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.12-17.50.46:166][669]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.12-17.50.46:166][669]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.12-17.50.46:166][669]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.12-17.50.46:168][669]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.12-17.50.46:245][669]LogAudioMixer: Display: Using Audio Hardware Device Høyttalere (Realtek(R) Audio)
+[2023.02.12-17.50.46:245][669]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.12-17.50.46:245][669]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.12-17.50.46:245][669]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.12-17.50.46:246][669]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.02.12-17.50.46:246][669]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.02.12-17.50.46:247][669]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.02.12-17.50.46:247][669]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.02.12-17.50.46:247][669]LogInit: FAudioDevice initialized.
+[2023.02.12-17.50.46:247][669]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2023.02.12-17.50.46:260][669]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.02.12-17.50.46:261][669]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.02.12-17.50.46
+[2023.02.12-17.50.46:261][669]LogWorld: Bringing up level for play took: 0.000927
+[2023.02.12-17.50.46:262][669]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.02.12-17.50.46:264][669]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=965.454 Y=990.006 Z=122.342
+[2023.02.12-17.50.46:264][669]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.12-17.50.46:265][669]PIE: Server logged in
+[2023.02.12-17.50.46:265][669]PIE: Play in editor total start time 0.159 seconds.
+[2023.02.12-17.51.02:200][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.12-17.51.02:200][568]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.02.12-17.51.02:200][568]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.12-17.51.02:200][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.12-17.51.02:212][568]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.12-17.51.02:215][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.12-17.51.02:246][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.12-17.51.02:247][568]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.02.12-17.51.02:248][568]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.02.12-17.51.02:254][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.02.12-17.51.02:275][569]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.02.12-17.51.57:726][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.02.12-17.52.12:820][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.02.12-17.52.12:876][127]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/ThirdPerson/Maps/ProtoMapV1.ThirdPersonMap'
+[2023.02.12-17.52.12:878][127]LogAssetEditorSubsystem: Error: Opening Asset editor failed because of null asset
+[2023.02.12-17.52.23:795][361]LogAssetEditorSubsystem: Opening Asset editor for MapBuildDataRegistry /Game/ThirdPerson/Maps/ProtoMapV1_BuiltData.ThirdPersonMap_BuiltData
+[2023.02.12-17.52.25:713][542]LogSlate: Window 'ThirdPersonMap_BuiltData' being destroyed
+[2023.02.12-17.52.25:718][542]LogSlate: Window 'ThirdPersonMap_BuiltData' being destroyed
+[2023.02.12-17.52.25:723][542]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.02.12-17.52.25:723][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.12-17.52.25:765][542]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.02.12-17.52.25:765][542]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.02.12-17.52.25:765][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.12-17.52.25:800][542]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.02.12-17.52.25:800][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.12-17.52.25:807][542]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.02.12-17.52.25:807][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.12-17.52.27:032][675]LogAssetEditorSubsystem: Opening Asset editor for MapBuildDataRegistry /Game/ThirdPerson/Maps/ThirdPersonMap_BuiltData.ThirdPersonMap_BuiltData
+[2023.02.12-17.52.29:068][861]LogSlate: Window 'ThirdPersonMap_BuiltData' being destroyed
+[2023.02.12-17.52.29:083][861]LogSlate: Window 'ThirdPersonMap_BuiltData' being destroyed
+[2023.02.12-17.52.30:347][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.02.12-17.52.30:357][997]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1
+[2023.02.12-17.52.30:357][997]LightingResults: New page: Lighting Build
+[2023.02.12-17.52.30:358][997]LoadErrors: New page: Loading map: ProtoMapV1.umap
+[2023.02.12-17.52.30:391][997]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.12-17.52.30:391][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.12-17.52.30:393][997]MapCheck: New page: Map Check
+[2023.02.12-17.52.30:393][997]LightingResults: New page: Lighting Build
+[2023.02.12-17.52.30:434][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.02.12-17.52.30:441][997]LogLoad: Looking for existing references to World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap...
+[2023.02.12-17.52.30:807][997] (standalone)  World /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1
+[2023.02.12-17.52.30:807][997] -> TObjectPtr<APhysicsVolume> UWorld::DefaultPhysicsVolume =  DefaultPhysicsVolume /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1:PersistentLevel.DefaultPhysicsVolume_0
+[2023.02.12-17.52.30:807][997]  -> UObject* UObject::Outer =  Level /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1:PersistentLevel
+[2023.02.12-17.52.30:807][997]   -> Level /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1:PersistentLevel::AddReferencedObjects( WorldDataLayers /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldDataLayers)
+[2023.02.12-17.52.30:825][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:825][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:825][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:827][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:827][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:828][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:829][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:829][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:831][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:831][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:831][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:832][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:832][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:832][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:833][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:833][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:834][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:834][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:835][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:836][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:837][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:838][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:839][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:840][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:840][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:841][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:841][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:842][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:842][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:843][997]      ^ UnknownFunction []
+[2023.02.12-17.52.30:843][997]    -> UObject* UObject::Outer =  Level /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel
+[2023.02.12-17.52.30:843][997]     -> UObject* UObject::Outer =  World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2023.02.12-17.52.30:843][997]  
+[2023.02.12-17.52.30:860][997]LogLoad: Error: Old World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap not cleaned up by GC! Object World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap is being referenced by Level /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel:
+ (standalone)  World /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1
+ -> TObjectPtr<APhysicsVolume> UWorld::DefaultPhysicsVolume =  DefaultPhysicsVolume /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1:PersistentLevel.DefaultPhysicsVolume_0
+  -> UObject* UObject::Outer =  Level /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1:PersistentLevel
+   -> Level /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1:PersistentLevel::AddReferencedObjects( WorldDataLayers /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldDataLayers)
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+    -> UObject* UObject::Outer =  Level /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel
+     -> UObject* UObject::Outer =  World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+         ^ This reference is preventing the old World from being GC'd ^
+  
+
+[2023.02.12-17.52.30:866][997]LogLoad: Looking for existing references to Package /Game/ThirdPerson/Maps/ThirdPersonMap...
+[2023.02.12-17.52.31:170][997] (standalone)  World /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1
+[2023.02.12-17.52.31:170][997] -> TObjectPtr<APhysicsVolume> UWorld::DefaultPhysicsVolume =  DefaultPhysicsVolume /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1:PersistentLevel.DefaultPhysicsVolume_0
+[2023.02.12-17.52.31:170][997]  -> UObject* UObject::Outer =  Level /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1:PersistentLevel
+[2023.02.12-17.52.31:170][997]   -> Level /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1:PersistentLevel::AddReferencedObjects( WorldDataLayers /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldDataLayers)
+[2023.02.12-17.52.31:170][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:171][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:171][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:171][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:172][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:172][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:172][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:174][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:174][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:174][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:175][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:175][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:175][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:176][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:176][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:177][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:177][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:178][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:179][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:180][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:181][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:181][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:182][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:182][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:183][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:183][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:184][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:184][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:185][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:185][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:185][997]    -> UObject* UObject::Outer =  Level /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel
+[2023.02.12-17.52.31:185][997]     -> UObject* UObject::Outer =  World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2023.02.12-17.52.31:185][997]      -> UObject* UObject::Outer =  Package /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.02.12-17.52.31:185][997]  
+[2023.02.12-17.52.31:185][997] (standalone)  World /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1
+[2023.02.12-17.52.31:185][997] -> TObjectPtr<APhysicsVolume> UWorld::DefaultPhysicsVolume =  DefaultPhysicsVolume /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1:PersistentLevel.DefaultPhysicsVolume_0
+[2023.02.12-17.52.31:185][997]  -> UObject* UObject::Outer =  Level /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1:PersistentLevel
+[2023.02.12-17.52.31:185][997]   -> Level /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1:PersistentLevel::AddReferencedObjects( WorldDataLayers /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldDataLayers)
+[2023.02.12-17.52.31:186][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:186][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:186][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:187][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:187][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:187][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:188][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:188][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:189][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:189][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:190][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:190][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:190][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:191][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:191][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:192][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:192][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:193][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:193][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:194][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:195][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:196][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:197][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:197][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:198][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:198][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:199][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:199][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:200][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:200][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:200][997]    -> UObject* UObject::Outer =  Level /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel
+[2023.02.12-17.52.31:200][997]     -> TObjectPtr<ULevelScriptBlueprint> ULevel::LevelScriptBlueprint =  LevelScriptBlueprint /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ThirdPersonMap
+[2023.02.12-17.52.31:200][997]      -> TSubclassOf<UObject>  UBlueprintCore::GeneratedClass =  BlueprintGeneratedClass /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C
+[2023.02.12-17.52.31:200][997]       -> UObject* UObject::Outer =  Package /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.02.12-17.52.31:200][997]  
+[2023.02.12-17.52.31:200][997] (standalone)  World /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1
+[2023.02.12-17.52.31:200][997] -> TObjectPtr<APhysicsVolume> UWorld::DefaultPhysicsVolume =  DefaultPhysicsVolume /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1:PersistentLevel.DefaultPhysicsVolume_0
+[2023.02.12-17.52.31:200][997]  -> UObject* UObject::Outer =  Level /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1:PersistentLevel
+[2023.02.12-17.52.31:200][997]   -> Level /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1:PersistentLevel::AddReferencedObjects( WorldDataLayers /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldDataLayers)
+[2023.02.12-17.52.31:201][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:201][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:201][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:202][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:202][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:202][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:203][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:203][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:204][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:204][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:204][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:205][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:206][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:206][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:206][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:207][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:207][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:207][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:208][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:209][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:210][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:211][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:211][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:212][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:212][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:213][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:213][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:214][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:214][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:214][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:214][997]    -> UObject* UObject::Outer =  Level /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel
+[2023.02.12-17.52.31:214][997]     -> TObjectPtr<ULevelScriptBlueprint> ULevel::LevelScriptBlueprint =  LevelScriptBlueprint /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ThirdPersonMap
+[2023.02.12-17.52.31:214][997]      -> TSubclassOf<UObject>  UBlueprintCore::GeneratedClass =  BlueprintGeneratedClass /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C
+[2023.02.12-17.52.31:214][997]       -> BlueprintGeneratedClass /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C::AddReferencedObjects( ThirdPersonMap_C /Game/ThirdPerson/Maps/ThirdPersonMap.Default__ThirdPersonMap_C)
+[2023.02.12-17.52.31:215][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:215][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:216][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:216][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:216][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:217][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:217][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:217][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:218][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:218][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:219][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:219][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:219][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:220][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:220][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:221][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:221][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:221][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:222][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:224][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:224][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:225][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:226][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:226][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:227][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:227][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:228][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:228][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:229][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:229][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:229][997]        -> UObject* UObject::Outer =  Package /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.02.12-17.52.31:229][997]  
+[2023.02.12-17.52.31:229][997] (standalone)  World /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1
+[2023.02.12-17.52.31:229][997] -> TObjectPtr<APhysicsVolume> UWorld::DefaultPhysicsVolume =  DefaultPhysicsVolume /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1:PersistentLevel.DefaultPhysicsVolume_0
+[2023.02.12-17.52.31:229][997]  -> UObject* UObject::Outer =  Level /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1:PersistentLevel
+[2023.02.12-17.52.31:229][997]   -> Level /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1:PersistentLevel::AddReferencedObjects( WorldDataLayers /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldDataLayers)
+[2023.02.12-17.52.31:230][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:230][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:230][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:231][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:231][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:232][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:232][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:232][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:233][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:233][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:234][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:234][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:234][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:235][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:235][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:236][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:236][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:236][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:237][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:238][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:238][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:239][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:240][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:240][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:241][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:241][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:242][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:242][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:243][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:243][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:243][997]    -> UObject* UObject::Outer =  Level /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel
+[2023.02.12-17.52.31:243][997]     -> Level /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel::AddReferencedObjects( ThirdPersonMap_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ThirdPersonExampleMap_C_0)
+[2023.02.12-17.52.31:243][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:244][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:244][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:246][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:246][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:246][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:246][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:246][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:247][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:247][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:247][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:248][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:248][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:249][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:249][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:249][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:250][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:250][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:252][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:253][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:253][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:254][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:254][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:255][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:255][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:256][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:256][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:257][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:257][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:258][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:258][997]      -> UObject* UObject::Class =  BlueprintGeneratedClass /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C
+[2023.02.12-17.52.31:258][997]       -> BlueprintGeneratedClass /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C::AddReferencedObjects( LevelScriptBlueprint /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ThirdPersonMap)
+[2023.02.12-17.52.31:258][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:258][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:259][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:259][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:260][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:260][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:260][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:261][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:261][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:261][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:262][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:262][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:262][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:263][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:263][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:264][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:264][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:264][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:265][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:266][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:267][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:268][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:269][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:269][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:269][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:270][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:270][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:271][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:271][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:272][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:272][997]        -> TSubclassOf<UObject>  UBlueprintCore::SkeletonGeneratedClass =  BlueprintGeneratedClass /Game/ThirdPerson/Maps/ThirdPersonMap.SKEL_ThirdPersonMap_C
+[2023.02.12-17.52.31:272][997]         -> UObject* UObject::Outer =  Package /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.02.12-17.52.31:272][997]  
+[2023.02.12-17.52.31:272][997] (standalone)  World /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1
+[2023.02.12-17.52.31:272][997] -> TObjectPtr<APhysicsVolume> UWorld::DefaultPhysicsVolume =  DefaultPhysicsVolume /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1:PersistentLevel.DefaultPhysicsVolume_0
+[2023.02.12-17.52.31:272][997]  -> UObject* UObject::Outer =  Level /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1:PersistentLevel
+[2023.02.12-17.52.31:272][997]   -> Level /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1:PersistentLevel::AddReferencedObjects( WorldDataLayers /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldDataLayers)
+[2023.02.12-17.52.31:272][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:273][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:273][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:273][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:274][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:274][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:275][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:275][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:275][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:276][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:276][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:277][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:277][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:277][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:278][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:278][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:279][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:279][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:280][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:281][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:282][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:282][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:283][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:283][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:284][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:284][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:285][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:285][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:286][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:286][997]      ^ UnknownFunction []
+[2023.02.12-17.52.31:286][997]    -> UObject* UObject::Outer =  Level /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel
+[2023.02.12-17.52.31:286][997]     -> Level /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel::AddReferencedObjects( ThirdPersonMap_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ThirdPersonExampleMap_C_0)
+[2023.02.12-17.52.31:287][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:287][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:287][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:288][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:288][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:288][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:289][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:289][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:290][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:290][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:290][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:291][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:291][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:291][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:292][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:292][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:293][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:293][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:294][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:295][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:296][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:296][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:297][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:298][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:299][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:299][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:300][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:300][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:300][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:301][997]        ^ UnknownFunction []
+[2023.02.12-17.52.31:301][997]      -> UObject* UObject::Class =  BlueprintGeneratedClass /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C
+[2023.02.12-17.52.31:301][997]       -> BlueprintGeneratedClass /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C::AddReferencedObjects( LevelScriptBlueprint /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ThirdPersonMap)
+[2023.02.12-17.52.31:301][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:302][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:302][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:302][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:303][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:303][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:303][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:304][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:304][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:304][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:305][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:305][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:306][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:306][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:306][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:307][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:307][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:308][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:308][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:309][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:310][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:311][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:311][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:312][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:312][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:313][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:314][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:314][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:314][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:314][997]          ^ UnknownFunction []
+[2023.02.12-17.52.31:314][997]        -> TSubclassOf<UObject>  UBlueprintCore::SkeletonGeneratedClass =  BlueprintGeneratedClass /Game/ThirdPerson/Maps/ThirdPersonMap.SKEL_ThirdPersonMap_C
+[2023.02.12-17.52.31:314][997]         -> BlueprintGeneratedClass /Game/ThirdPerson/Maps/ThirdPersonMap.SKEL_ThirdPersonMap_C::AddReferencedObjects( SKEL_ThirdPersonMap_C /Game/ThirdPerson/Maps/ThirdPersonMap.Default__SKEL_ThirdPersonMap_C)
+[2023.02.12-17.52.31:315][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:315][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:315][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:317][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:317][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:317][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:318][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:318][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:319][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:319][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:319][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:320][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:320][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:321][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:321][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:322][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:322][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:322][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:323][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:324][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:325][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:326][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:326][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:327][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:327][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:328][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:328][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:329][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:329][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:329][997]            ^ UnknownFunction []
+[2023.02.12-17.52.31:329][997]          -> UObject* UObject::Outer =  Package /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.02.12-17.52.31:329][997]  
+[2023.02.12-17.52.31:343][997]LogLoad: Error: Old Package /Game/ThirdPerson/Maps/ThirdPersonMap not cleaned up by GC! Object Package /Game/ThirdPerson/Maps/ThirdPersonMap is being referenced by SKEL_ThirdPersonMap_C /Game/ThirdPerson/Maps/ThirdPersonMap.Default__SKEL_ThirdPersonMap_C:
+ (standalone)  World /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1
+ -> TObjectPtr<APhysicsVolume> UWorld::DefaultPhysicsVolume =  DefaultPhysicsVolume /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1:PersistentLevel.DefaultPhysicsVolume_0
+  -> UObject* UObject::Outer =  Level /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1:PersistentLevel
+   -> Level /Game/ThirdPerson/Maps/ProtoMapV1.ProtoMapV1:PersistentLevel::AddReferencedObjects( WorldDataLayers /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldDataLayers)
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+      ^ UnknownFunction []
+    -> UObject* UObject::Outer =  Level /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel
+     -> UObject* UObject::Outer =  World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+      -> UObject* UObject::Outer =  Package /Game/ThirdPerson/Maps/ThirdPersonMap
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+          ^ This reference is preventing the old Package from being GC'd ^
+  
+
+[2023.02.12-17.52.31:350][997]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.02.12-17.52.31:350][997]LogWindows: Windows GetLastError: The operation completed successfully. (0)
