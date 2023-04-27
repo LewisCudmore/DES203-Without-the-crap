@@ -1,0 +1,1221 @@
+﻿Log file open, 04/27/23 14:07:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=17704)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Prototype
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Prototype.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.1817] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|12th Gen Intel(R) Core(TM) i7-12700H"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="42ea73ea489dbdadc2e1198b7e53de3a"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.217766
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-398392274439604EDE0522802122C7EA
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.1817] (), CPU: 12th Gen Intel(R) Core(TM) i7-12700H, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.04.27-13.07.13:551][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.04.27-13.07.13:551][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.04.27-13.07.13:551][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.04.27-13.07.13:552][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.04.27-13.07.13:552][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.04.27-13.07.13:552][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.04.27-13.07.13:552][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.04.27-13.07.13:552][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.04.27-13.07.13:552][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.04.27-13.07.13:552][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.04.27-13.07.13:552][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.04.27-13.07.13:552][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.04.27-13.07.13:552][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.04.27-13.07.13:552][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.04.27-13.07.13:563][  0]LogD3D12RHI: Aftermath initialized
+[2023.04.27-13.07.13:563][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.04.27-13.07.13:703][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3070 Ti Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2023.04.27-13.07.13:703][  0]LogD3D12RHI: Adapter has 8043MB of dedicated video memory, 0MB of dedicated system memory, and 8044MB of shared system memory, 1 output[s]
+[2023.04.27-13.07.13:745][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) Iris(R) Xe Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2023.04.27-13.07.13:745][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8044MB of shared system memory, 0 output[s]
+[2023.04.27-13.07.13:771][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.04.27-13.07.13:771][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8044MB of shared system memory, 0 output[s]
+[2023.04.27-13.07.13:771][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.04.27-13.07.13:771][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.04.27-13.07.13:771][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.04.27-13.07.13:771][  0]LogHAL: Display: Platform has ~ 16 GB [16870285312 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.04.27-13.07.13:771][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.04.27-13.07.13:771][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.04.27-13.07.13:771][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.04.27-13.07.13:771][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.04.27-13.07.13:771][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Config/WindowsEditor/Editor.ini]
+[2023.04.27-13.07.13:772][  0]LogInit: Computer: MSI
+[2023.04.27-13.07.13:772][  0]LogInit: User: Junis
+[2023.04.27-13.07.13:772][  0]LogInit: CPU Page size=4096, Cores=14
+[2023.04.27-13.07.13:772][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.04.27-13.07.13:772][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2023.04.27-13.07.13:772][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.04.27-13.07.13:772][  0]LogMemory: Process Physical Memory: 296.70 MB used, 300.34 MB peak
+[2023.04.27-13.07.13:772][  0]LogMemory: Process Virtual Memory: 274.38 MB used, 274.38 MB peak
+[2023.04.27-13.07.13:772][  0]LogMemory: Physical Memory: 8691.43 MB used,  7397.33 MB free, 16088.76 MB total
+[2023.04.27-13.07.13:772][  0]LogMemory: Virtual Memory: 12090.17 MB used,  11934.59 MB free, 24024.76 MB total
+[2023.04.27-13.07.13:772][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.04.27-13.07.13:794][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.04.27-13.07.13:805][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.04.27-13.07.13:805][  0]LogInit: Using OS detected language (en-GB).
+[2023.04.27-13.07.13:805][  0]LogInit: Using OS detected locale (en-GB).
+[2023.04.27-13.07.13:808][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+[2023.04.27-13.07.13:909][  0]LogInit: Setting process to per monitor DPI aware
+[2023.04.27-13.07.13:926][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.04.27-13.07.13:926][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2023.04.27-13.07.13:927][  0]LogWindowsTextInputMethodSystem:   - Norwegian Bokmål (Norway) - (Keyboard).
+[2023.04.27-13.07.13:927][  0]LogWindowsTextInputMethodSystem: Activated input method: Norwegian Bokmål (Norway) - (Keyboard).
+[2023.04.27-13.07.13:937][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.04.27-13.07.13:937][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.04.27-13.07.13:999][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.04.27-13.07.14:002][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.04.27-13.07.14:002][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.04.27-13.07.14:058][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.04.27-13.07.14:058][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.04.27-13.07.14:058][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.04.27-13.07.14:058][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.04.27-13.07.14:058][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.04.27-13.07.14:058][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.04.27-13.07.14:058][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.04.27-13.07.14:058][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.04.27-13.07.14:058][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.04.27-13.07.14:058][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.04.27-13.07.14:058][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.04.27-13.07.14:058][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.04.27-13.07.14:058][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.04.27-13.07.14:058][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.04.27-13.07.14:058][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.04.27-13.07.14:058][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.04.27-13.07.14:087][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.04.27-13.07.14:091][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.04.27-13.07.14:100][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.04.27-13.07.14:133][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.04.27-13.07.14:133][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.04.27-13.07.14:149][  0]LogD3D12RHI:     GPU DeviceId: 0x24a0 (for the marketing name, search the web for "GPU Device Id")
+[2023.04.27-13.07.14:149][  0]LogWindows: Attached monitors:
+[2023.04.27-13.07.14:149][  0]LogWindows:     resolution: 2560x1440, work area: (0, 0) -> (2560, 1368), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.04.27-13.07.14:149][  0]LogWindows: Found 1 attached monitors.
+[2023.04.27-13.07.14:149][  0]LogWindows: EnumDisplayDevices:
+[2023.04.27-13.07.14:150][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.04.27-13.07.14:150][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.04.27-13.07.14:150][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.04.27-13.07.14:150][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.04.27-13.07.14:150][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3070 Ti Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.04.27-13.07.14:150][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3070 Ti Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.04.27-13.07.14:150][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3070 Ti Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.04.27-13.07.14:150][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3070 Ti Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY8'
+[2023.04.27-13.07.14:150][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.04.27-13.07.14:150][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3070 Ti Laptop GPU
+[2023.04.27-13.07.14:150][  0]LogD3D12RHI:   Driver Version: 522.25 (internal:31.0.15.2225, unified:522.25)
+[2023.04.27-13.07.14:150][  0]LogD3D12RHI:      Driver Date: 10-6-2022
+[2023.04.27-13.07.14:150][  0]LogRHI: Texture pool is 4583 MB (70% of 6547 MB)
+[2023.04.27-13.07.14:150][  0]LogD3D12RHI: Async texture creation enabled
+[2023.04.27-13.07.14:150][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.04.27-13.07.14:160][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.04.27-13.07.14:165][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Prototype.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Prototype.uproject"  -platform=all'
+[2023.04.27-13.07.14:165][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Prototype.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Prototype.uproject"  -platform=all" ]
+[2023.04.27-13.07.14:186][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.04.27-13.07.14:193][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.04.27-13.07.14:193][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.04.27-13.07.14:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.04.27-13.07.14:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.04.27-13.07.14:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.04.27-13.07.14:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.04.27-13.07.14:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.04.27-13.07.14:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.04.27-13.07.14:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.04.27-13.07.14:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.04.27-13.07.14:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.04.27-13.07.14:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.04.27-13.07.14:215][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.04.27-13.07.14:215][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.04.27-13.07.14:218][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.04.27-13.07.14:218][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.04.27-13.07.14:220][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.04.27-13.07.14:220][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.04.27-13.07.14:220][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.04.27-13.07.14:220][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.04.27-13.07.14:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.04.27-13.07.14:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.04.27-13.07.14:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.04.27-13.07.14:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.04.27-13.07.14:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.04.27-13.07.14:230][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.04.27-13.07.14:230][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.04.27-13.07.14:230][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.04.27-13.07.14:230][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.04.27-13.07.14:230][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.04.27-13.07.14:235][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.04.27-13.07.14:237][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.04.27-13.07.14:237][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.04.27-13.07.14:237][  0]LogTargetPlatformManager:   ADPCM
+[2023.04.27-13.07.14:237][  0]LogTargetPlatformManager:   PCM
+[2023.04.27-13.07.14:240][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.04.27-13.07.14:240][  0]LogTargetPlatformManager:   BINKA
+[2023.04.27-13.07.14:240][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.04.27-13.07.14:240][  0]LogTargetPlatformManager:   OGG
+[2023.04.27-13.07.14:240][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.04.27-13.07.14:240][  0]LogTargetPlatformManager:   OPUS
+[2023.04.27-13.07.14:280][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.04.27-13.07.14:285][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.04.27-13.07.14:285][  0]LogTargetPlatformManager:   SF_METAL
+[2023.04.27-13.07.14:285][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.04.27-13.07.14:285][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.04.27-13.07.14:285][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.04.27-13.07.14:285][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.04.27-13.07.14:285][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.04.27-13.07.14:285][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.04.27-13.07.14:285][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.04.27-13.07.14:285][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.04.27-13.07.14:285][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.04.27-13.07.14:285][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.04.27-13.07.14:285][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.04.27-13.07.14:285][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.04.27-13.07.14:285][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.04.27-13.07.14:285][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.04.27-13.07.14:288][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.04.27-13.07.14:288][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.04.27-13.07.14:288][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.04.27-13.07.14:288][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.04.27-13.07.14:288][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.04.27-13.07.14:288][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.04.27-13.07.14:288][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.04.27-13.07.14:288][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.04.27-13.07.14:288][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.04.27-13.07.14:289][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.04.27-13.07.14:289][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.04.27-13.07.14:289][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.04.27-13.07.14:291][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.04.27-13.07.14:291][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.04.27-13.07.14:291][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.27-13.07.14:291][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.04.27-13.07.14:308][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.04.27-13.07.14:308][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.27-13.07.14:308][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.04.27-13.07.14:404][  0]LogDerivedDataCache: Speed tests for C:/Users/Junis/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.10 seconds
+[2023.04.27-13.07.14:405][  0]LogDerivedDataCache: Display: Performance to C:/Users/Junis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=1715.29MBs, RandomWriteSpeed=9.72MBs. Assigned SpeedClass 'Local'
+[2023.04.27-13.07.14:406][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Junis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.04.27-13.07.14:406][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.04.27-13.07.14:406][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.04.27-13.07.14:411][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.04.27-13.07.14:411][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.04.27-13.07.14:411][  0]LogShaderCompilers: Guid format shader working directory is -63 characters bigger than the processId version (../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Intermediate/Shaders/WorkingDirectory/9340/).
+[2023.04.27-13.07.14:411][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Junis/AppData/Local/Temp/UnrealShaderWorkingDir/0870600144845D30A66432850BF712CE/'.
+[2023.04.27-13.07.14:412][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.04.27-13.07.14:412][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 10 workers.
+[2023.04.27-13.07.15:426][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.04.27-13.07.15:426][  0]LogSlate: Using FreeType 2.10.0
+[2023.04.27-13.07.15:427][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.04.27-13.07.15:456][  0]LogAssetRegistry: FAssetRegistry took 0.0084 seconds to start up
+[2023.04.27-13.07.15:461][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.04.27-13.07.15:728][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.04.27-13.07.15:729][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.04.27-13.07.15:998][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.04.27-13.07.15:998][  0]LogDeviceProfileManager: Active device profile: [00000B1F2827EFC0][00000B1F20115000 50] WindowsEditor
+[2023.04.27-13.07.15:998][  0]LogDeviceProfileManager: Profiles: [00000B1F2827B0C0][00000B1F2011A000 50] Windows, [00000B1F2827EFC0][00000B1F20115000 50] WindowsEditor, [00000B1F2827BD00][00000B1F20112800 50] WindowsServer, [00000B1F28278DC0][00000B1F1E7FA000 50] WindowsClient, [00000B1F2827BEC0][00000B1F20117800 50] IOS, [00000B1F282794C0][00000B1F286C0000 50] iPadAir2, [00000B1F28279840][00000B1F286C7800 50] IPadPro, [00000B1F2827A2C0][00000B1F286C5000 50] iPadAir3, [00000B1F2827C400][00000B1F286CA000 50] iPadAir4, [00000B1F2827A100][00000B1F286CC800 50] iPadMini4, [00000B1F28279D80][00000B1F01F25000 50] iPadMini5, [00000B1F2827DC80][00000B1F28710000 50] iPadMini6, [00000B1F28782680][00000B1F2871A000 50] iPhone6S, [00000B1F28782A00][00000B1F28717800 50] iPhone7, [00000B1F28782D80][00000B1F28715000 50] iPodTouch7, [00000B1F28783480][00000B1F2871C800 50] iPhone6SPlus, [00000B1F28783640][00000B1F286C2800 50] iPhone7Plus, [00000B1F28783100][00000B1F28740000 50] iPhoneSE, [00000B1F28781DC0][00000B1F28745000 50] iPhone8, [00000B1F28783D40][00000B1F28747800 50] iPhone8Plus, [00000B1F28782300][00000B1F2874A000 50] iPhoneX, [00000B1F28781340][00000B1F2874C800 50] iPhoneXS, [00000B1F28784280][00000B1F28712800 50] iPhoneXSMax, [00000B1F28780000][00000B1F28760000 50] iPhoneXR, [00000B1F28781A40][00000B1F28765000 50] iPhone11, [00000B1F28784980][00000B1F28767800 50] iPhone11Pro, [00000B1F28781500][00000B1F2876A000 50] iPhone11ProMax, [00000B1F28784D00][00000B1F2876C800 50] iPhoneSE2, [00000B1F28781C00][00000B1F28742800 50] iPhone12Mini, [00000B1F28780380][00000B1F28770000 50] iPhone12, [00000B1F28783F00][00000B1F28775000 50] iPhone12Pro, [00000B1F28784B40][00000B1F28777800 50] iPhone12ProMax, [00000B1F28782F40][00000B1F2877A000 50] iPhone13Mini, [00000B1F28782840][00000B1F2877C800 50] iPhone13, [00000B1F28785CC0][00000B1F28762800 50] iPhone13Pro, [00000B1F28780540][00000B1F28790000 50] iPhone13ProMax, [00000B1F28785B00][00000B1F28795000 50] iPadPro105, [00000B1F287847C0][00000B1F28797800 50] iPadPro129, [00000B1F28780E00][00000B1F2879A000 50] iPadPro97, [00000B1F28785780][00000B1F2879C800 50] iPadPro2_129, [00000B1F28780700][00000B1F28772800 50] iPad5, [00000B1F28785240][00000B1F287A0000 50] iPad6, [00000B1F287824C0][00000B1F287A5000 50] iPad7, [00000B1F287840C0][00000B1F287A7800 50] iPad8, [00000B1F28782140][00000B1F287AA000 50] iPad9, [00000B1F287839C0][00000B1F287AC800 50] iPadPro11, [00000B1F28786740][00000B1F28792800 50] iPadPro2_11, [00000B1F287855C0][00000B1F287B0000 50] iPadPro3_11, [00000B1F28787000][00000B1F287B5000 50] iPadPro3_129, [00000B1F28785400][00000B1F287B7800 50] iPadPro4_129, [00000B1F287808C0][00000B1F287BA000 50] iPadPro5_129, [00000B1F28785940][00000B1F287BC800 50] AppleTV, [00000B1F28781F80][00000B1F287A2800 50] AppleTV4K, [00000B1F28786AC0][00000B1F286D0000 50] TVOS, [00000B1F28788500][00000B1F286D7800 50] Mac, [00000B1F28788180][00000B1F286D5000 50] MacEditor, [00000B1F28780FC0][00000B1F286DA000 50] MacClient, [00000B1F28787E00][00000B1F286DC800 50] MacServer, [00000B1F2878AF00][00000B1F287E0000 50] Linux, [00000B1F2878B280][00000B1F287E2800 50] LinuxEditor, [00000B1F28786C80][00000B1F287E7800 50] LinuxArm64Editor, [00000B1F28787FC0][00000B1F287EA000 50] LinuxArm64, [00000B1F2878AD40][00000B1F287EC800 50] LinuxClient, [00000B1F287894C0][00000B1F287B2800 50] LinuxArm64Client, [00000B1F287816C0][00000B1F287E5000 50] LinuxServer, [00000B1F28787C40][00000B1F287F0000 50] LinuxArm64Server, [00000B1F28789D80][00000B1F287F5000 50] Android, [00000B1F2878A800][00000B1F287F7800 50] Android_Preview_OpenGL, [00000B1F2878B0C0][00000B1F287FA000 50] Android_Preview_Vulkan, [00000B1F28781180][00000B1F287FC800 50] Android_Low, [00000B1F28780C40][00000B1F286D2800 50] Android_Mid, [00000B1F28788340][00000B1F287C0000 50] Android_High, [00000B1F28789F40][00000B1F287C5000 50] Android_Default, [00000B1F28789300][00000B1F287C7800 50] Android_Adreno4xx, [00000B1F28789680][00000B1F287CA000 50] Android_Adreno5xx_Low, [00000B1F2878BB40][00000B1F287CC800 50] Android_Adreno5xx, [00000B1F2878A2C0][00000B1F287F2800 50] Android_Adreno6xx, [00000B1F2878B980][00000B1F287D0000 50] Android_Adreno6xx_Vulkan, [00000B1F28786040][00000B1F287D5000 50] Android_Adreno7xx, [00000B1F287878C0][00000B1F287D7800 50] Android_Adreno7xx_Vulkan, [00000B1F28786900][00000B1F287DA000 50] Android_Mali_T6xx, [00000B1F28784600][00000B1F287DC800 50] Android_Mali_T7xx, [00000B1F2878A9C0][00000B1F287C2800 50] Android_Mali_T8xx, [00000B1F28787A80][00000B1F29010000 50] Android_Mali_G71, [00000B1F287832C0][00000B1F29015000 50] Android_Mali_G72, [00000B1F28788C00][00000B1F29017800 50] Android_Mali_G72_Vulkan, [00000B1F287871C0][00000B1F2901A000 50] Android_Mali_G76, [00000B1F28786580][00000B1F2901C800 50] Android_Mali_G76_Vulkan, [00000B1F28784EC0][00000B1F287D2800 50] Android_Mali_G77, [00000B1F28784440][00000B1F29020000 50] Android_Mali_G77_Vulkan, [00000B1F28788F80][00000B1F29025000 50] Android_Mali_G78, [00000B1F2878B440][00000B1F29027800 50] Android_Mali_G78_Vulkan, [00000B1F2878B7C0][00000B1F2902A000 50] Android_Mali_G710, [00000B1F28789840][00000B1F2902C800 50] Android_Mali_G710_Vulkan, [00000B1F2878A100][00000B1F29012800 50] Android_Xclipse_920, [00000B1F28783B80][00000B1F29040000 50] Android_Xclipse_920_Vulkan, [00000B1F28782BC0][00000B1F29045000 50] Android_Vulkan_SM5, [00000B1F2878CB00][00000B1F29047800 50] Android_PowerVR_G6xxx, [00000B1F28788880][00000B1F2904A000 50] Android_PowerVR_GT7xxx, [00000B1F2878A480][00000B1F2904C800 50] Android_PowerVR_GE8xxx, [00000B1F28789A00][00000B1F29022800 50] Android_PowerVR_GM9xxx, [00000B1F28785E80][00000B1F29050000 50] Android_PowerVR_GM9xxx_Vulkan, [00000B1F28787540][00000B1F29055000 50] Android_TegraK1, [00000B1F28787380][00000B1F29057800 50] Android_Unknown_Vulkan, [00000B1F28789BC0][00000B1F2905A000 50] Oculus_Quest, [00000B1F2878D580][00000B1F2905C800 50] Oculus_Quest2, [00000B1F2878BD00][00000B1F29042800 50] HoloLens, 
+[2023.04.27-13.07.15:998][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.04.27-13.07.16:010][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_ValidHostPrerequisites")
+[2023.04.27-13.07.16:010][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.04.27-13.07.16:010][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.04.27-13.07.16:011][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.04.27-13.07.16:011][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.22621.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.04.27-13.07.16:035][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.04.27-13.07.16:223][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.04.27-13.07.16:223][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.04.27-13.07.16:223][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.04.27-13.07.16:223][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.04.27-13.07.16:223][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.04.27-13.07.16:233][  0]LogNetVersion: Prototype 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 393343579)
+[2023.04.27-13.07.16:318][  0]LogSlate: Border
+[2023.04.27-13.07.16:318][  0]LogSlate: BreadcrumbButton
+[2023.04.27-13.07.16:318][  0]LogSlate: Default
+[2023.04.27-13.07.16:318][  0]LogSlate: Icons.Save
+[2023.04.27-13.07.16:318][  0]LogSlate: Icons.Toolbar.Settings
+[2023.04.27-13.07.16:318][  0]LogSlate: ListView
+[2023.04.27-13.07.16:318][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.04.27-13.07.16:318][  0]LogSlate: SoftwareCursor_Grab
+[2023.04.27-13.07.16:318][  0]LogSlate: TableView.DarkRow
+[2023.04.27-13.07.16:318][  0]LogSlate: TableView.Row
+[2023.04.27-13.07.16:318][  0]LogSlate: TreeView
+[2023.04.27-13.07.16:484][  0]SourceControl: Source control is disabled
+[2023.04.27-13.07.16:512][  0]SourceControl: Source control is disabled
+[2023.04.27-13.07.16:512][  0]SourceControl: Source control is disabled
+[2023.04.27-13.07.16:627][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.04.27-13.07.16:627][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.04.27-13.07.16:627][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.04.27-13.07.16:733][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: C991D1584F469E72302FE9870CE83E21 | Instance: A6DEC440405481CA92FA74A4AAD40E44 (MSI-9340).
+[2023.04.27-13.07.16:894][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.04.27-13.07.16:899][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.04.27-13.07.17:052][  0]LogPython: Using Python 3.9.7
+[2023.04.27-13.07.17:723][  0]SourceControl: Source control is disabled
+[2023.04.27-13.07.17:731][  0]SourceControl: Source control is disabled
+[2023.04.27-13.07.17:737][  0]SourceControl: Source control is disabled
+[2023.04.27-13.07.17:739][  0]LogUProjectInfo: Found projects:
+[2023.04.27-13.07.17:974][  0]LogOpenImageDenoise: OIDN starting up
+[2023.04.27-13.07.18:112][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.04.27-13.07.18:124][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.27-13.07.18:124][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.27-13.07.18:289][  0]LogCollectionManager: Loaded 0 collections in 0.001776 seconds
+[2023.04.27-13.07.18:325][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Collections/' took 0.00s
+[2023.04.27-13.07.18:325][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Developers/Junis/Collections/' took 0.00s
+[2023.04.27-13.07.18:325][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Collections/' took 0.00s
+[2023.04.27-13.07.18:676][  0]LogEngine: Initializing Engine...
+[2023.04.27-13.07.18:688][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.04.27-13.07.18:690][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.04.27-13.07.18:936][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.04.27-13.07.18:936][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.27-13.07.18:946][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-13.07.18:971][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.04.27-13.07.18:971][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.04.27-13.07.18:989][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.04.27-13.07.18:990][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.04.27-13.07.18:990][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.04.27-13.07.18:990][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.04.27-13.07.18:990][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.04.27-13.07.18:990][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.27-13.07.18:990][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.27-13.07.18:990][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.27-13.07.18:990][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.27-13.07.18:990][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.27-13.07.18:990][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.27-13.07.18:990][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.27-13.07.18:990][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.27-13.07.18:990][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.27-13.07.18:990][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.27-13.07.18:990][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.27-13.07.18:995][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.27-13.07.19:022][  0]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2023.04.27-13.07.19:023][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.27-13.07.19:024][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.27-13.07.19:024][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.27-13.07.19:024][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.04.27-13.07.19:024][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.04.27-13.07.19:026][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.04.27-13.07.19:026][  0]LogInit: FAudioDevice initialized.
+[2023.04.27-13.07.19:026][  0]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13476
+[2023.04.27-13.07.19:026][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.04.27-13.07.19:026][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.04.27-13.07.19:026][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.04.27-13.07.19:026][  0]LogInit: Texture streaming: Enabled
+[2023.04.27-13.07.19:048][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.04.27-13.07.19:054][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.04.27-13.07.19:073][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.04.27-13.07.19:080][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.04.27-13.07.19:080][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.04.27-13.07.20:860][  0]LogLiveCoding: Display: First instance in process group "UE_Prototype_0x6efd8f3a", spawning console
+[2023.04.27-13.07.20:860][  0]LogLiveCoding: Display: Waiting for server
+[2023.04.27-13.07.20:860][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.04.27-13.07.20:876][  0]LogInit: Transaction tracking system initialized
+[2023.04.27-13.07.20:926][  0]BlueprintLog: New page: Editor Load
+[2023.04.27-13.07.21:051][  0]LocalizationService: Localization service is disabled
+[2023.04.27-13.07.21:081][  0]TimingProfiler: Initialize
+[2023.04.27-13.07.21:081][  0]TimingProfiler: OnSessionChanged
+[2023.04.27-13.07.21:081][  0]LoadingProfiler: Initialize
+[2023.04.27-13.07.21:081][  0]LoadingProfiler: OnSessionChanged
+[2023.04.27-13.07.21:081][  0]NetworkingProfiler: Initialize
+[2023.04.27-13.07.21:081][  0]NetworkingProfiler: OnSessionChanged
+[2023.04.27-13.07.21:081][  0]MemoryProfiler: Initialize
+[2023.04.27-13.07.21:081][  0]MemoryProfiler: OnSessionChanged
+[2023.04.27-13.07.21:488][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/' took 0.02s
+[2023.04.27-13.07.21:488][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.04.27-13.07.21:589][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.04.27-13.07.21:590][  0]SourceControl: Source control is disabled
+[2023.04.27-13.07.21:590][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.920
+[2023.04.27-13.07.21:591][  0]LightingResults: New page: Lighting Build
+[2023.04.27-13.07.21:596][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-13.07.21:596][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-13.07.21:596][  0]MapCheck: New page: Map Check
+[2023.04.27-13.07.21:596][  0]LightingResults: New page: Lighting Build
+[2023.04.27-13.07.21:601][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.27-13.07.21:604][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.04.27-13.07.22:642][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.04.27-13.07.22:648][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-13.07.22:648][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.04.27-13.07.22:649][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.27-13.07.22:649][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.04.27-13.07.22:694][  0]LogWorldPartition: Display: WorldPartition initialize took 44 ms
+[2023.04.27-13.07.22:698][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.27-13.07.22:708][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.04.27-13.07.22:708][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.27-13.07.22:708][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.23ms to complete.
+[2023.04.27-13.07.22:708][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 1.117
+[2023.04.27-13.07.22:717][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.047
+[2023.04.27-13.07.22:717][  0]LogShaderCompilers: Display: ================================================
+[2023.04.27-13.07.22:717][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.27-13.07.22:717][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.04.27-13.07.22:717][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.04.27-13.07.22:717][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.04.27-13.07.22:717][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.27-13.07.22:717][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.04.27-13.07.22:717][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.04.27-13.07.22:717][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.04.27-13.07.22:717][  0]LogShaderCompilers: Display: ================================================
+[2023.04.27-13.07.22:834][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-13.07.22:837][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-13.07.22:840][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-13.07.22:844][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-13.07.22:865][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.04.27-13.07.22:865][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.27-13.07.22:866][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.04.27-13.07.22:866][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.27-13.07.22:866][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.04.27-13.07.22:866][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.27-13.07.22:866][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.04.27-13.07.22:866][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.27-13.07.22:866][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.04.27-13.07.22:866][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.27-13.07.22:867][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.04.27-13.07.22:867][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.27-13.07.22:867][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.04.27-13.07.22:867][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.27-13.07.22:867][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.04.27-13.07.22:867][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.27-13.07.22:868][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.04.27-13.07.22:868][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.27-13.07.22:868][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.04.27-13.07.22:868][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.27-13.07.22:868][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.04.27-13.07.23:032][  0]LogSlate: Took 0.000113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.04.27-13.07.23:034][  0]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.04.27-13.07.23:036][  0]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.04.27-13.07.23:036][  0]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.04.27-13.07.23:037][  0]LogSlate: Took 0.000085 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.04.27-13.07.23:059][  0]LogViewport: Scene viewport resized to 1558x673, mode Windowed.
+[2023.04.27-13.07.23:089][  0]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.27-13.07.23:567][  0]LogStall: Startup...
+[2023.04.27-13.07.23:569][  0]LogStall: Startup complete.
+[2023.04.27-13.07.23:580][  0]LogLoad: (Engine Initialization) Total time: 10.91 seconds
+[2023.04.27-13.07.23:581][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.04.27-13.07.23:640][  0]LogAssetRegistry: Asset discovery search completed in 8.1856 seconds
+[2023.04.27-13.07.23:643][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.04.27-13.07.23:656][  0]LogNiagara: Compiling System NiagaraSystem /Game/Fire/FireNS.FireNS took 1.100042 sec, no shader worker used.
+[2023.04.27-13.07.23:657][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.04.27-13.07.23:795][  2]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.04.27-13.07.28:731][264]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/' took 5.10s
+[2023.04.27-13.07.28:881][270]AssetReimport: New page: Outstanding source content changes 15:07:28
+[2023.04.27-13.07.28:886][270]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.27-13.07.28:931][271]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/tape_fin.fbx]
+[2023.04.27-13.07.28:955][271]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/CompleteAssets/Assets_3D/Tape/tape_fin_tape_3.tape_fin_tape_3
+[2023.04.27-13.07.28:955][271]LogFbx: Loading FBX Scene from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/tape_fin.fbx
+[2023.04.27-13.07.28:977][271]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.27-13.07.29:111][271]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/CompleteAssets/Assets_3D/Tape/tape_fin_tape_3.tape_fin_tape_3
+[2023.04.27-13.07.29:124][271]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.29:157][271]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/tape_fin.fbx]
+[2023.04.27-13.07.29:175][271]LogFbx: Loading FBX Scene from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/tape_fin.fbx
+[2023.04.27-13.07.29:207][271]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/CompleteAssets/Assets_3D/Tape/tape_fin_tape_2.tape_fin_tape_2
+[2023.04.27-13.07.29:207][271]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.27-13.07.29:341][271]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/CompleteAssets/Assets_3D/Tape/tape_fin_tape_2.tape_fin_tape_2
+[2023.04.27-13.07.29:354][271]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.29:388][271]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/tape_fin.fbx]
+[2023.04.27-13.07.29:408][271]LogFbx: Loading FBX Scene from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/tape_fin.fbx
+[2023.04.27-13.07.29:441][271]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/CompleteAssets/Assets_3D/Tape/tape_fin_tape_1.tape_fin_tape_1
+[2023.04.27-13.07.29:441][271]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.27-13.07.29:502][271]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/CompleteAssets/Assets_3D/Tape/tape_fin_tape_1.tape_fin_tape_1
+[2023.04.27-13.07.29:509][271]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.29:561][272]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/Grass/grass fin.fbx]
+[2023.04.27-13.07.29:574][272]LogFbx: Loading FBX Scene from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/Grass/grass fin.fbx
+[2023.04.27-13.07.29:599][272]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.27-13.07.29:614][272]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/CompleteAssets/Assets_3D/Grass/grass_fin_grass_2.grass_fin_grass_2
+[2023.04.27-13.07.29:743][272]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/CompleteAssets/Assets_3D/Grass/grass_fin_grass_2.grass_fin_grass_2
+[2023.04.27-13.07.29:769][272]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.29:801][272]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/Grass/grass fin.fbx]
+[2023.04.27-13.07.29:822][272]LogFbx: Loading FBX Scene from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/Grass/grass fin.fbx
+[2023.04.27-13.07.29:867][272]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/CompleteAssets/Assets_3D/Grass/grass_fin_grass_1.grass_fin_grass_1
+[2023.04.27-13.07.29:867][272]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.27-13.07.30:031][272]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/CompleteAssets/Assets_3D/Grass/grass_fin_grass_1.grass_fin_grass_1
+[2023.04.27-13.07.30:066][272]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.30:179][273]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/Log/log fin.fbx]
+[2023.04.27-13.07.30:194][273]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/CompleteAssets/Assets_3D/Log/log_fin_log_stick.log_fin_log_stick
+[2023.04.27-13.07.30:194][273]LogFbx: Loading FBX Scene from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/Log/log fin.fbx
+[2023.04.27-13.07.30:218][273]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.27-13.07.30:241][273]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/CompleteAssets/Assets_3D/Log/log_fin_log_stick.log_fin_log_stick
+[2023.04.27-13.07.30:248][273]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.30:257][273]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/Log/log fin.fbx]
+[2023.04.27-13.07.30:269][273]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/CompleteAssets/Assets_3D/Log/log_fin_log_leaf.log_fin_log_leaf
+[2023.04.27-13.07.30:269][273]LogFbx: Loading FBX Scene from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/Log/log fin.fbx
+[2023.04.27-13.07.30:288][273]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.27-13.07.30:318][273]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/CompleteAssets/Assets_3D/Log/log_fin_log_leaf.log_fin_log_leaf
+[2023.04.27-13.07.30:326][273]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.30:337][273]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/Log/log fin.fbx]
+[2023.04.27-13.07.30:347][273]LogFbx: Loading FBX Scene from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/Log/log fin.fbx
+[2023.04.27-13.07.30:367][273]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.27-13.07.30:402][273]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/CompleteAssets/Assets_3D/Log/log_fin_log1.log_fin_log1
+[2023.04.27-13.07.30:534][273]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/CompleteAssets/Assets_3D/Log/log_fin_log1.log_fin_log1
+[2023.04.27-13.07.30:550][273]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.30:601][273]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/CompleteAssets/Assets_3D/Log/log_fin_log1.log_fin_log1
+[2023.04.27-13.07.30:601][273]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/Log/log fin.fbx]
+[2023.04.27-13.07.30:615][273]LogFbx: Loading FBX Scene from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/Log/log fin.fbx
+[2023.04.27-13.07.30:637][273]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.27-13.07.30:660][273]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/CompleteAssets/Assets_3D/Log/log_fin_log.log_fin_log
+[2023.04.27-13.07.30:756][273]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/CompleteAssets/Assets_3D/Log/log_fin_log.log_fin_log
+[2023.04.27-13.07.30:767][273]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.30:787][274]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/ChargeSuperJump/Dragon_WD_ChargeSuperJump1.png]
+[2023.04.27-13.07.30:792][274]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/ChargeSuperJump/Dragon_WD_ChargeSuperJump1.png)
+[2023.04.27-13.07.30:858][274]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.30:871][275]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/ChargeSuperJump/Dragon_WD_ChargeSuperJump2.png]
+[2023.04.27-13.07.30:875][275]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/ChargeSuperJump/Dragon_WD_ChargeSuperJump2.png)
+[2023.04.27-13.07.30:940][275]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.30:951][276]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/ChargeSuperJump/Dragon_WD_ChargeSuperJump3.png]
+[2023.04.27-13.07.30:955][276]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/ChargeSuperJump/Dragon_WD_ChargeSuperJump3.png)
+[2023.04.27-13.07.31:006][276]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.31:017][277]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/ChargeSuperJump/Dragon_WD_ChargeSuperJump4.png]
+[2023.04.27-13.07.31:021][277]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/ChargeSuperJump/Dragon_WD_ChargeSuperJump4.png)
+[2023.04.27-13.07.31:074][277]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.31:083][278]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_Jump1.png]
+[2023.04.27-13.07.31:087][278]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_Jump1.png)
+[2023.04.27-13.07.31:140][278]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.31:150][279]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_Jump2.png]
+[2023.04.27-13.07.31:154][279]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_Jump2.png)
+[2023.04.27-13.07.31:206][279]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.31:218][280]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_Jump3.png]
+[2023.04.27-13.07.31:222][280]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_Jump3.png)
+[2023.04.27-13.07.31:281][280]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.31:293][281]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_Jump4.png]
+[2023.04.27-13.07.31:298][281]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_Jump4.png)
+[2023.04.27-13.07.31:347][281]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.31:359][282]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_Fall1.png]
+[2023.04.27-13.07.31:364][282]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_Fall1.png)
+[2023.04.27-13.07.31:415][282]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.31:428][283]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_Fall2.png]
+[2023.04.27-13.07.31:433][283]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_Fall2.png)
+[2023.04.27-13.07.31:485][283]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.31:497][284]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_WD_Fall1.png]
+[2023.04.27-13.07.31:501][284]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_WD_Fall1.png)
+[2023.04.27-13.07.31:555][284]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.31:568][285]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_WD_Fall2.png]
+[2023.04.27-13.07.31:572][285]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_WD_Fall2.png)
+[2023.04.27-13.07.31:630][285]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.31:642][286]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_WD_Fall3.png]
+[2023.04.27-13.07.31:647][286]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_WD_Fall3.png)
+[2023.04.27-13.07.31:708][286]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.31:722][287]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_WD_Fall4.png]
+[2023.04.27-13.07.31:727][287]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_WD_Fall4.png)
+[2023.04.27-13.07.31:787][287]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.31:799][288]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_FB_Idle2.png]
+[2023.04.27-13.07.31:804][288]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_FB_Idle2.png)
+[2023.04.27-13.07.31:858][288]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.31:871][289]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_FB_Idle3.png]
+[2023.04.27-13.07.31:876][289]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_FB_Idle3.png)
+[2023.04.27-13.07.31:935][289]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.31:961][290]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_FB_Idle4.png]
+[2023.04.27-13.07.31:968][290]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_FB_Idle4.png)
+[2023.04.27-13.07.32:026][290]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.32:038][291]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_WD_FB_Idle1.png]
+[2023.04.27-13.07.32:044][291]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_WD_FB_Idle1.png)
+[2023.04.27-13.07.32:115][291]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.32:128][292]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_WD_FB_Idle2.png]
+[2023.04.27-13.07.32:133][292]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_WD_FB_Idle2.png)
+[2023.04.27-13.07.32:197][292]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.32:210][293]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_WD_FB_Idle3.png]
+[2023.04.27-13.07.32:216][293]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_WD_FB_Idle3.png)
+[2023.04.27-13.07.32:276][293]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.32:289][294]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_WD_FB_Idle4.png]
+[2023.04.27-13.07.32:295][294]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_WD_FB_Idle4.png)
+[2023.04.27-13.07.32:358][294]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.32:372][295]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_FB_Jump1.png]
+[2023.04.27-13.07.32:377][295]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_FB_Jump1.png)
+[2023.04.27-13.07.32:439][295]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.32:452][296]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_FB_Jump2.png]
+[2023.04.27-13.07.32:458][296]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_FB_Jump2.png)
+[2023.04.27-13.07.32:518][296]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.32:583][297]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_FB_Jump3.png]
+[2023.04.27-13.07.32:589][297]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_FB_Jump3.png)
+[2023.04.27-13.07.32:647][297]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.32:699][298]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_FB_Jump4.png]
+[2023.04.27-13.07.32:706][298]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_FB_Jump4.png)
+[2023.04.27-13.07.32:781][298]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.32:831][299]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_FB_Jump1.png]
+[2023.04.27-13.07.32:836][299]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_FB_Jump1.png)
+[2023.04.27-13.07.32:881][299]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.32:925][300]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_FB_Jump2.png]
+[2023.04.27-13.07.32:929][300]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_FB_Jump2.png)
+[2023.04.27-13.07.32:970][300]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.33:008][301]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_FB_Jump3.png]
+[2023.04.27-13.07.33:012][301]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_FB_Jump3.png)
+[2023.04.27-13.07.33:050][301]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.33:063][302]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_FB_Jump4.png]
+[2023.04.27-13.07.33:066][302]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_FB_Jump4.png)
+[2023.04.27-13.07.33:109][302]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.33:118][303]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_D_Run1.png]
+[2023.04.27-13.07.33:122][303]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_D_Run1.png)
+[2023.04.27-13.07.33:168][303]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.33:178][304]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_D_Run2.png]
+[2023.04.27-13.07.33:181][304]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_D_Run2.png)
+[2023.04.27-13.07.33:225][304]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.33:235][305]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_D_Run3.png]
+[2023.04.27-13.07.33:238][305]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_D_Run3.png)
+[2023.04.27-13.07.33:282][305]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.33:291][306]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_D_Run4.png]
+[2023.04.27-13.07.33:295][306]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_D_Run4.png)
+[2023.04.27-13.07.33:336][306]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.33:345][307]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_Run1.png]
+[2023.04.27-13.07.33:349][307]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_Run1.png)
+[2023.04.27-13.07.33:393][307]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.33:402][308]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_Run2.png]
+[2023.04.27-13.07.33:406][308]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_Run2.png)
+[2023.04.27-13.07.33:450][308]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.33:460][309]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_Run3.png]
+[2023.04.27-13.07.33:464][309]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_Run3.png)
+[2023.04.27-13.07.33:508][309]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.33:518][310]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_Run4.png]
+[2023.04.27-13.07.33:521][310]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_Run4.png)
+[2023.04.27-13.07.33:566][310]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.33:576][311]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_FB_Jump1.png]
+[2023.04.27-13.07.33:581][311]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_FB_Jump1.png)
+[2023.04.27-13.07.33:638][311]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.33:648][312]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_FB_Jump2.png]
+[2023.04.27-13.07.33:652][312]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_FB_Jump2.png)
+[2023.04.27-13.07.33:705][312]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.33:715][313]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_FB_Jump3.png]
+[2023.04.27-13.07.33:718][313]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_FB_Jump3.png)
+[2023.04.27-13.07.33:765][313]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.33:777][314]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_FB_Jump4.png]
+[2023.04.27-13.07.33:781][314]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_FB_Jump4.png)
+[2023.04.27-13.07.33:834][314]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.33:845][315]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_Run1.png]
+[2023.04.27-13.07.33:849][315]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_Run1.png)
+[2023.04.27-13.07.33:899][315]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.33:911][316]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_Run2.png]
+[2023.04.27-13.07.33:914][316]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_Run2.png)
+[2023.04.27-13.07.33:962][316]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.33:973][317]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_Run3.png]
+[2023.04.27-13.07.33:976][317]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_Run3.png)
+[2023.04.27-13.07.34:025][317]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.34:035][318]LogEditorFactories: Performing atomic reimport of [C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_Run4.png]
+[2023.04.27-13.07.34:038][318]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_Run4.png)
+[2023.04.27-13.07.34:085][318]LogEditorFactories: -- imported successfully
+[2023.04.27-13.07.34:271][319]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.003604 seconds
+[2023.04.27-13.07.34:277][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_3D/Tape/tape_fin_tape_3
+[2023.04.27-13.07.34:278][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/tape_fin_tape_3FAC197114C8CAA51FA8D6C9F0984F278.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/Tape/tape_fin_tape_3.uasset'
+[2023.04.27-13.07.34:301][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_3D/Tape/tape_fin_tape_2
+[2023.04.27-13.07.34:302][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/tape_fin_tape_2990632C14DE99A7CFDFF3397A92C2E12.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/Tape/tape_fin_tape_2.uasset'
+[2023.04.27-13.07.34:318][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_3D/Tape/tape_fin_tape_1
+[2023.04.27-13.07.34:319][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/tape_fin_tape_1C506E8F449CE3A511225FDA4ECFB3DE5.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/Tape/tape_fin_tape_1.uasset'
+[2023.04.27-13.07.34:348][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_3D/Grass/grass_fin_grass_2
+[2023.04.27-13.07.34:349][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/grass_fin_grass_2E61FD249453C6F21C71AC0A8F576E530.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/Grass/grass_fin_grass_2.uasset'
+[2023.04.27-13.07.34:369][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_3D/Grass/grass_fin_grass_1
+[2023.04.27-13.07.34:369][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/grass_fin_grass_11996749C48DEEDF38ACCE09DE060D4FD.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/Grass/grass_fin_grass_1.uasset'
+[2023.04.27-13.07.34:388][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_3D/Log/log_fin_log_stick
+[2023.04.27-13.07.34:389][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/log_fin_log_stick8493540F410F19E52905CD8287E026AC.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/Log/log_fin_log_stick.uasset'
+[2023.04.27-13.07.34:410][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_3D/Log/log_fin_log_leaf
+[2023.04.27-13.07.34:411][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/log_fin_log_leafB2636D9C4DAC85B980FAC09135CE6B5D.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/Log/log_fin_log_leaf.uasset'
+[2023.04.27-13.07.34:436][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_3D/Log/log_fin_log1
+[2023.04.27-13.07.34:437][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/log_fin_log1029B416842D0CC3A27F63590A4920B69.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/Log/log_fin_log1.uasset'
+[2023.04.27-13.07.34:457][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_3D/Log/log_fin_log
+[2023.04.27-13.07.34:457][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/log_fin_log369EAF9B4167B0B0F56F8CBE0CD3E828.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/Log/log_fin_log.uasset'
+[2023.04.27-13.07.34:564][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/ChargeSuperJump/Dragon_WD_ChargeSuperJump1
+[2023.04.27-13.07.34:565][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_ChargeSuperJump106600FFC49915577CFF2BF94105FA54E.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/ChargeSuperJump/Dragon_WD_ChargeSuperJump1.uasset'
+[2023.04.27-13.07.34:657][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/ChargeSuperJump/Dragon_WD_ChargeSuperJump2
+[2023.04.27-13.07.34:657][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_ChargeSuperJump21C7A0DDA443FA0FB45C1E39E361E1C6D.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/ChargeSuperJump/Dragon_WD_ChargeSuperJump2.uasset'
+[2023.04.27-13.07.34:742][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/ChargeSuperJump/Dragon_WD_ChargeSuperJump3
+[2023.04.27-13.07.34:743][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_ChargeSuperJump3E29C47204493B378046D8E9D1F408D3F.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/ChargeSuperJump/Dragon_WD_ChargeSuperJump3.uasset'
+[2023.04.27-13.07.34:834][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/ChargeSuperJump/Dragon_WD_ChargeSuperJump4
+[2023.04.27-13.07.34:834][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_ChargeSuperJump4998B5E924EF439D8A60F53A8C358433A.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/ChargeSuperJump/Dragon_WD_ChargeSuperJump4.uasset'
+[2023.04.27-13.07.34:919][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_Jump1
+[2023.04.27-13.07.34:920][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_Jump1296749664C9D8BBA0E5698B04ADD6B74.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_Jump1.uasset'
+[2023.04.27-13.07.35:009][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_Jump2
+[2023.04.27-13.07.35:009][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_Jump2DD1CA3EB49F7D5491B00138080461D7F.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_Jump2.uasset'
+[2023.04.27-13.07.35:100][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_Jump3
+[2023.04.27-13.07.35:101][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_Jump37EF893CA4F1F1102051ED49E8FE54FA8.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_Jump3.uasset'
+[2023.04.27-13.07.35:187][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_Jump4
+[2023.04.27-13.07.35:188][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_Jump440B3F2164A703F37C14FAD96DFA5CDA8.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_Jump4.uasset'
+[2023.04.27-13.07.35:283][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_Fall1
+[2023.04.27-13.07.35:284][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_Fall111DCE618419865805E683188E393916E.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_Fall1.uasset'
+[2023.04.27-13.07.35:375][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_Fall2
+[2023.04.27-13.07.35:376][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_Fall25EBBA7824ACB27BFC0FAFB865E7F3CC6.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_Fall2.uasset'
+[2023.04.27-13.07.35:464][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_WD_Fall1
+[2023.04.27-13.07.35:464][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_Fall1BB8577F5434134C7A9358CA267DDC621.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_WD_Fall1.uasset'
+[2023.04.27-13.07.35:556][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_WD_Fall2
+[2023.04.27-13.07.35:557][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_Fall2F99BC0E746561A3FFD282DB20C834A2C.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_WD_Fall2.uasset'
+[2023.04.27-13.07.35:650][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_WD_Fall3
+[2023.04.27-13.07.35:651][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_Fall33B62886A410F4265A92B8EA1F47F22E9.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_WD_Fall3.uasset'
+[2023.04.27-13.07.35:745][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_WD_Fall4
+[2023.04.27-13.07.35:746][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_Fall4B1FABF9E4FCF831025A457A0A6C05634.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_WD_Fall4.uasset'
+[2023.04.27-13.07.35:831][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_FB_Idle2
+[2023.04.27-13.07.35:832][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_FB_Idle278A2CBCE488C5A14445799893A9647D7.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_FB_Idle2.uasset'
+[2023.04.27-13.07.35:920][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_FB_Idle3
+[2023.04.27-13.07.35:921][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_FB_Idle33E0C330244C9DEB32B7B17B8FE8021B8.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_FB_Idle3.uasset'
+[2023.04.27-13.07.36:013][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_FB_Idle4
+[2023.04.27-13.07.36:014][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_FB_Idle48FF7F8ED42F689A1AC9D2BA16B0AD449.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_FB_Idle4.uasset'
+[2023.04.27-13.07.36:102][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_WD_FB_Idle1
+[2023.04.27-13.07.36:103][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_FB_Idle1FFFF8955439D6A313760958B799460E4.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_WD_FB_Idle1.uasset'
+[2023.04.27-13.07.36:191][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_WD_FB_Idle2
+[2023.04.27-13.07.36:191][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_FB_Idle2EFBC968A49596D063889D6AB555B6E92.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_WD_FB_Idle2.uasset'
+[2023.04.27-13.07.36:279][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_WD_FB_Idle3
+[2023.04.27-13.07.36:279][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_FB_Idle3C8EA82E74487540695130290E5E4A678.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_WD_FB_Idle3.uasset'
+[2023.04.27-13.07.36:364][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_WD_FB_Idle4
+[2023.04.27-13.07.36:365][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_FB_Idle4EB98DF644066BDBF8761819B8818527F.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_WD_FB_Idle4.uasset'
+[2023.04.27-13.07.36:452][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_FB_Jump1
+[2023.04.27-13.07.36:453][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_FB_Jump13CDC28B24AF233B84C8BB5BC4BBF727D.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_FB_Jump1.uasset'
+[2023.04.27-13.07.36:538][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_FB_Jump2
+[2023.04.27-13.07.36:538][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_FB_Jump26D7E14444C114A32A974E88D3913FB70.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_FB_Jump2.uasset'
+[2023.04.27-13.07.36:625][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_FB_Jump3
+[2023.04.27-13.07.36:626][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_FB_Jump31314898B4F1433AEE908B1A70BDF019A.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_FB_Jump3.uasset'
+[2023.04.27-13.07.36:707][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_FB_Jump4
+[2023.04.27-13.07.36:707][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_FB_Jump44A5CB8FC42A0AFAC69149CA3CCAF8179.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_FB_Jump4.uasset'
+[2023.04.27-13.07.36:789][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_FB_Jump1
+[2023.04.27-13.07.36:790][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_FB_Jump15C729AB14C713977E744E9A6F441CE94.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_FB_Jump1.uasset'
+[2023.04.27-13.07.36:876][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_FB_Jump2
+[2023.04.27-13.07.36:877][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_FB_Jump20FB483B34A0EEC759496A7A9E74D7BF8.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_FB_Jump2.uasset'
+[2023.04.27-13.07.36:960][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_FB_Jump3
+[2023.04.27-13.07.36:960][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_FB_Jump3D20445A349038C54CA0699A8B4BD358C.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_FB_Jump3.uasset'
+[2023.04.27-13.07.37:050][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_FB_Jump4
+[2023.04.27-13.07.37:051][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_FB_Jump413441317402AD294AE7F55A842C31A2D.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_FB_Jump4.uasset'
+[2023.04.27-13.07.37:135][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_D_Run1
+[2023.04.27-13.07.37:136][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_D_Run1D54EAD604ED4CC485382AC87E2C66772.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_D_Run1.uasset'
+[2023.04.27-13.07.37:216][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_D_Run2
+[2023.04.27-13.07.37:216][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_D_Run2B54EC0C14BF9B01D5E035887CEF8D027.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_D_Run2.uasset'
+[2023.04.27-13.07.37:298][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_D_Run3
+[2023.04.27-13.07.37:298][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_D_Run3F84B98CE4B0B12CB0B0DEF8C07434DF7.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_D_Run3.uasset'
+[2023.04.27-13.07.37:377][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_D_Run4
+[2023.04.27-13.07.37:378][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_D_Run44208646A4CC65E8A77FB75B661D6FB40.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_D_Run4.uasset'
+[2023.04.27-13.07.37:463][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_Run1
+[2023.04.27-13.07.37:464][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_FB_Run10C5B999B430F28221B3EF9AD2D1D279F.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_Run1.uasset'
+[2023.04.27-13.07.37:545][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_Run2
+[2023.04.27-13.07.37:546][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_FB_Run2FEA8486E49E35244BF1084B80AFECA8C.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_Run2.uasset'
+[2023.04.27-13.07.37:627][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_Run3
+[2023.04.27-13.07.37:627][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_FB_Run3DA7629BD486D925A77567CA016FBB6CF.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_Run3.uasset'
+[2023.04.27-13.07.37:708][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_Run4
+[2023.04.27-13.07.37:709][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_FB_Run436E6725A47C88CBA9FC689AAEBEBD2FD.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_Run4.uasset'
+[2023.04.27-13.07.37:791][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_FB_Run1
+[2023.04.27-13.07.37:792][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_FB_Run1C5686A5D4B86843C773B30ACFF8A8531.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_FB_Run1.uasset'
+[2023.04.27-13.07.37:874][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_FB_Run2
+[2023.04.27-13.07.37:874][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_FB_Run2E616125C44B5D962E41D5AABF140221A.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_FB_Run2.uasset'
+[2023.04.27-13.07.37:953][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_FB_Run3
+[2023.04.27-13.07.37:954][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_FB_Run3B6C8003B4679F085B7F3FB9343054016.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_FB_Run3.uasset'
+[2023.04.27-13.07.38:032][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_FB_Run4
+[2023.04.27-13.07.38:033][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_FB_Run4AE858CBB4A81DF4153B340B2CD7588FC.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_FB_Run4.uasset'
+[2023.04.27-13.07.38:121][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_Run1
+[2023.04.27-13.07.38:122][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_Run1CDC74B5047FA26D9CA36209663ED5C8E.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_Run1.uasset'
+[2023.04.27-13.07.38:205][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_Run2
+[2023.04.27-13.07.38:205][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_Run24FFD1DB34B6696FB39B877ABBAE08C2F.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_Run2.uasset'
+[2023.04.27-13.07.38:290][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_Run3
+[2023.04.27-13.07.38:290][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_Run34E11ABDC4EECB9ED57C6AD976B2D014E.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_Run3.uasset'
+[2023.04.27-13.07.38:368][319]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_Run4
+[2023.04.27-13.07.38:369][319]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_WD_Run42E2ACB2846606D92130DD08291FC82FE.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_Run4.uasset'
+[2023.04.27-13.07.38:466][320]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.27-13.07.38:466][320]LogContentValidation: Display: Validating StaticMesh /Game/Assets/CompleteAssets/Assets_3D/Log/log_fin_log_leaf.log_fin_log_leaf
+[2023.04.27-13.07.38:466][320]LogContentValidation: Display: Validating StaticMesh /Game/Assets/CompleteAssets/Assets_3D/Log/log_fin_log_stick.log_fin_log_stick
+[2023.04.27-13.07.38:466][320]LogContentValidation: Display: Validating StaticMesh /Game/Assets/CompleteAssets/Assets_3D/Grass/grass_fin_grass_1.grass_fin_grass_1
+[2023.04.27-13.07.38:466][320]LogContentValidation: Display: Validating StaticMesh /Game/Assets/CompleteAssets/Assets_3D/Grass/grass_fin_grass_2.grass_fin_grass_2
+[2023.04.27-13.07.38:466][320]LogContentValidation: Display: Validating StaticMesh /Game/Assets/CompleteAssets/Assets_3D/Tape/tape_fin_tape_1.tape_fin_tape_1
+[2023.04.27-13.07.38:466][320]LogContentValidation: Display: Validating StaticMesh /Game/Assets/CompleteAssets/Assets_3D/Tape/tape_fin_tape_2.tape_fin_tape_2
+[2023.04.27-13.07.38:466][320]LogContentValidation: Display: Validating StaticMesh /Game/Assets/CompleteAssets/Assets_3D/Tape/tape_fin_tape_3.tape_fin_tape_3
+[2023.04.27-13.07.38:466][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_Jump1.Dragon_WD_Jump1
+[2023.04.27-13.07.38:466][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_Jump2.Dragon_WD_Jump2
+[2023.04.27-13.07.38:466][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_Run4.Dragon_WD_Run4
+[2023.04.27-13.07.38:466][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_Run3.Dragon_WD_Run3
+[2023.04.27-13.07.38:466][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_Run2.Dragon_WD_Run2
+[2023.04.27-13.07.38:466][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_Run1.Dragon_WD_Run1
+[2023.04.27-13.07.38:466][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_FB_Run4.Dragon_WD_FB_Run4
+[2023.04.27-13.07.38:466][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_FB_Run3.Dragon_WD_FB_Run3
+[2023.04.27-13.07.38:466][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_FB_Run2.Dragon_WD_FB_Run2
+[2023.04.27-13.07.38:466][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_FB_Run1.Dragon_WD_FB_Run1
+[2023.04.27-13.07.38:466][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_Run4.Dragon_FB_Run4
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_Run3.Dragon_FB_Run3
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_Run2.Dragon_FB_Run2
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_Run1.Dragon_FB_Run1
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_D_Run4.Dragon_D_Run4
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_D_Run3.Dragon_D_Run3
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_D_Run2.Dragon_D_Run2
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_D_Run1.Dragon_D_Run1
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_FB_Jump4.Dragon_WD_FB_Jump4
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_FB_Jump3.Dragon_WD_FB_Jump3
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_FB_Jump2.Dragon_WD_FB_Jump2
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_FB_Jump1.Dragon_WD_FB_Jump1
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_FB_Jump4.Dragon_FB_Jump4
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_FB_Jump3.Dragon_FB_Jump3
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_FB_Jump2.Dragon_FB_Jump2
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_FB_Jump1.Dragon_FB_Jump1
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_WD_FB_Idle4.Dragon_WD_FB_Idle4
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_WD_FB_Idle3.Dragon_WD_FB_Idle3
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_WD_FB_Idle2.Dragon_WD_FB_Idle2
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_WD_FB_Idle1.Dragon_WD_FB_Idle1
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_FB_Idle4.Dragon_FB_Idle4
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_FB_Idle3.Dragon_FB_Idle3
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_FB_Idle2.Dragon_FB_Idle2
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_WD_Fall4.Dragon_WD_Fall4
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_WD_Fall3.Dragon_WD_Fall3
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_WD_Fall2.Dragon_WD_Fall2
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_WD_Fall1.Dragon_WD_Fall1
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_Fall2.Dragon_Fall2
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_Fall1.Dragon_Fall1
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_Jump4.Dragon_WD_Jump4
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_Jump3.Dragon_WD_Jump3
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/ChargeSuperJump/Dragon_WD_ChargeSuperJump4.Dragon_WD_ChargeSuperJump4
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/ChargeSuperJump/Dragon_WD_ChargeSuperJump3.Dragon_WD_ChargeSuperJump3
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/ChargeSuperJump/Dragon_WD_ChargeSuperJump2.Dragon_WD_ChargeSuperJump2
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/ChargeSuperJump/Dragon_WD_ChargeSuperJump1.Dragon_WD_ChargeSuperJump1
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating StaticMesh /Game/Assets/CompleteAssets/Assets_3D/Log/log_fin_log.log_fin_log
+[2023.04.27-13.07.38:467][320]LogContentValidation: Display: Validating StaticMesh /Game/Assets/CompleteAssets/Assets_3D/Log/log_fin_log1.log_fin_log1
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset tape_fin_tape_3 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/tape_fin.fbx.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset tape_fin_tape_2 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/tape_fin.fbx.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset tape_fin_tape_1 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/tape_fin.fbx.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset grass_fin_grass_2 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/Grass/grass fin.fbx.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset grass_fin_grass_1 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/Grass/grass fin.fbx.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset log_fin_log_stick from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/Log/log fin.fbx.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset log_fin_log_leaf from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/Log/log fin.fbx.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset log_fin_log1 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/Log/log fin.fbx.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset log_fin_log from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_3D/Log/log fin.fbx.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_ChargeSuperJump1 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/ChargeSuperJump/Dragon_WD_ChargeSuperJump1.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_ChargeSuperJump2 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/ChargeSuperJump/Dragon_WD_ChargeSuperJump2.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_ChargeSuperJump3 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/ChargeSuperJump/Dragon_WD_ChargeSuperJump3.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_ChargeSuperJump4 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/ChargeSuperJump/Dragon_WD_ChargeSuperJump4.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_Jump1 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_Jump1.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_Jump2 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_Jump2.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_Jump3 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_Jump3.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_Jump4 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_Jump4.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_Fall1 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_Fall1.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_Fall2 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_Fall2.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_Fall1 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_WD_Fall1.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_Fall2 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_WD_Fall2.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_Fall3 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_WD_Fall3.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_Fall4 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Fall/Dragon_WD_Fall4.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_FB_Idle2 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_FB_Idle2.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_FB_Idle3 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_FB_Idle3.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_FB_Idle4 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_FB_Idle4.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_FB_Idle1 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_WD_FB_Idle1.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_FB_Idle2 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_WD_FB_Idle2.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_FB_Idle3 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_WD_FB_Idle3.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_FB_Idle4 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Idle/Dragon_WD_FB_Idle4.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_FB_Jump1 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_FB_Jump1.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_FB_Jump2 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_FB_Jump2.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_FB_Jump3 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_FB_Jump3.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_FB_Jump4 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_FB_Jump4.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_FB_Jump1 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_FB_Jump1.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_FB_Jump2 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_FB_Jump2.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_FB_Jump3 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_FB_Jump3.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_FB_Jump4 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Jump/Dragon_WD_FB_Jump4.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_D_Run1 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_D_Run1.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_D_Run2 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_D_Run2.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_D_Run3 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_D_Run3.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_D_Run4 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_D_Run4.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_FB_Run1 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_Run1.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_FB_Run2 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_Run2.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_FB_Run3 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_Run3.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_FB_Run4 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_Run4.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_FB_Run1 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_FB_Jump1.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_FB_Run2 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_FB_Jump2.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_FB_Run3 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_FB_Jump3.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_FB_Run4 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_FB_Jump4.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_Run1 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_Run1.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_Run2 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_Run2.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_Run3 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_Run3.png.
+[2023.04.27-13.07.41:460][485]AssetReimport: Reimported asset Dragon_WD_Run4 from C:/Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_WD_Run4.png.
+[2023.04.27-13.07.42:569][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.04.27-13.08.38:254][196]LogContentBrowser: Attempting asset rename: Dragon_D_Run1 -> Dragon_FB_D_Run1
+[2023.04.27-13.08.38:449][196]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_D_Run1
+[2023.04.27-13.08.38:449][196]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_FB_D_Run1FCFEA2694D2232F3A28007A7F2647700.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_D_Run1.uasset'
+[2023.04.27-13.08.38:475][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.04.27-13.08.38:486][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.04.27-13.08.38:495][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.04.27-13.08.38:499][196]AssetCheck: New page: Asset Save: Dragon_FB_D_Run1
+[2023.04.27-13.08.38:500][196]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_D_Run1.Dragon_FB_D_Run1
+[2023.04.27-13.08.41:982][363]LogContentBrowser: Attempting asset rename: Dragon_D_Run2 -> Dragon_FB_D_Run2
+[2023.04.27-13.08.42:151][363]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_D_Run2
+[2023.04.27-13.08.42:152][363]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_FB_D_Run2EA9BE2F141FBDFE52EEF46ACC4E56E8F.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_D_Run2.uasset'
+[2023.04.27-13.08.42:178][363]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2023.04.27-13.08.42:187][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.04.27-13.08.42:197][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.04.27-13.08.42:201][363]AssetCheck: New page: Asset Save: Dragon_FB_D_Run2
+[2023.04.27-13.08.42:201][363]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_D_Run2.Dragon_FB_D_Run2
+[2023.04.27-13.08.46:505][575]LogContentBrowser: Attempting asset rename: Dragon_D_Run3 -> Dragon_FB_D_Run3
+[2023.04.27-13.08.46:659][575]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_D_Run3
+[2023.04.27-13.08.46:659][575]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_FB_D_Run382B59A7740DAE27CF52D0A82BDB19D61.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_D_Run3.uasset'
+[2023.04.27-13.08.46:687][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.04.27-13.08.46:695][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.04.27-13.08.46:705][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.27-13.08.46:709][575]AssetCheck: New page: Asset Save: Dragon_FB_D_Run3
+[2023.04.27-13.08.46:709][575]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_D_Run3.Dragon_FB_D_Run3
+[2023.04.27-13.08.51:302][801]LogContentBrowser: Attempting asset rename: Dragon_D_Run4 -> Dragon_FB_D_Run4
+[2023.04.27-13.08.51:467][801]LogSavePackage: Moving output files for package: /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_D_Run4
+[2023.04.27-13.08.51:467][801]LogSavePackage: Moving '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Saved/Dragon_FB_D_Run4E3431D5C4AD5901C6DB7BF992A436C98.tmp' to '../../../../../../Users/Junis/OneDrive/Dokumenter/Hedda/DES203-Without-the-crap/DES203-Game-Project/Prototype/Content/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_D_Run4.uasset'
+[2023.04.27-13.08.51:492][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.04.27-13.08.51:501][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.04.27-13.08.51:510][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.04.27-13.08.51:513][801]AssetCheck: New page: Asset Save: Dragon_FB_D_Run4
+[2023.04.27-13.08.51:513][801]LogContentValidation: Display: Validating Texture2D /Game/Assets/CompleteAssets/Assets_2D/Textures_Dragon/Run/Dragon_FB_D_Run4.Dragon_FB_D_Run4
+[2023.04.27-13.08.54:908][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.04.27-13.09.14:852][918]LogDerivedDataCache: C:/Users/Junis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.441 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.27-13.09.18:130][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.04.27-13.09.19:882][ 67]LogTexture: Display: Building textures: /Game/Assets/CompleteAssets/Assets_3D/Mushrooms/mushroom_tops_text_Normal.mushroom_tops_text_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.27-13.09.19:882][ 67]LogTexture: Display: Building textures: /Game/Assets/CompleteAssets/Assets_3D/Mushrooms/stalk_text_Normal.stalk_text_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.27-13.09.19:882][ 67]LogTexture: Display: Building textures: /Game/Assets/CompleteAssets/Assets_3D/Mushrooms/mushroom_tops_text_OcclusionRoughnessMetallic.mushroom_tops_text_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.27-13.09.19:882][ 67]LogTexture: Display: Building textures: /Game/Assets/CompleteAssets/Assets_3D/Mushrooms/stalk_text_OcclusionRoughnessMetallic.stalk_text_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.27-13.09.19:882][ 67]LogTexture: Display: Building textures: /Game/Assets/CompleteAssets/Assets_3D/Mushrooms/stalks_base.stalks_base (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.27-13.09.19:882][ 67]LogTexture: Display: Building textures: /Game/Assets/CompleteAssets/Assets_3D/Mushrooms/mush_test3.mush_test3 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.27-13.09.19:883][ 67]LogTexture: Display: Building textures: /Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/books_text_OcclusionRoughnessMetallic.books_text_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.27-13.09.19:883][ 67]LogMaterial: Display: Missing cached shadermap for MushroomTopMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: BD87F38147745FC3B0CD35D4077C72E4421458C8), compiling. 
+[2023.04.27-13.09.20:234][ 67]LogTexture: Display: Building textures: /Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/books_text_Normal.books_text_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.27-13.09.20:234][ 67]LogMaterial: Display: Missing cached shadermap for StalkMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 97719DD784BEB8EA86F5A82CF44977F2B2B303AD), compiling. 
+[2023.04.27-13.09.20:437][ 67]LogMaterial: Display: Missing cached shadermap for BookMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 3A224115E174702AD8A16D6BFADABC94891F962D), compiling. 
+[2023.04.27-13.09.20:556][ 67]LogMaterial: Display: Missing cached shadermap for PensandPencilMat in PCD3D_SM5, Default, SM5 (DDC key hash: 8C54394BB142A7B4A3831AA80435B4AB3A09783D), compiling. 
+[2023.04.27-13.09.20:741][ 67]LogStaticMesh: Display: Building static mesh books_final_fix_book_tall...
+[2023.04.27-13.09.20:741][ 67]LogStaticMesh: Display: Building static mesh books_final_fix_book_wide...
+[2023.04.27-13.09.20:741][ 67]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/books_final_fix_book_tall.books_final_fix_book_tall
+[2023.04.27-13.09.20:741][ 67]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/books_final_fix_book_wide.books_final_fix_book_wide
+[2023.04.27-13.09.20:741][ 67]LogStaticMesh: Display: Building static mesh pen_pencils_uv_fix_pen...
+[2023.04.27-13.09.20:742][ 67]LogMaterial: Display: Missing cached shadermap for RulerMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 94BB33603F746C250802BD784758533BE973B21C), compiling. 
+[2023.04.27-13.09.20:946][ 67]LogStaticMesh: Built static mesh [0.11s] /Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/pen_pencils_uv_fix_pen.pen_pencils_uv_fix_pen
+[2023.04.27-13.09.20:946][ 67]LogStaticMesh: Display: Building static mesh pen_pencils_uv_fix_pencil_long...
+[2023.04.27-13.09.20:946][ 67]LogTexture: Display: Building textures: /Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/RED_books_text_BaseColor.RED_books_text_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.27-13.09.20:946][ 67]LogStaticMesh: Built static mesh [0.09s] /Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/pen_pencils_uv_fix_pencil_long.pen_pencils_uv_fix_pencil_long
+[2023.04.27-13.09.20:947][ 67]LogStaticMesh: Display: Building static mesh pen_pencils_uv_fix_pencil_medium...
+[2023.04.27-13.09.20:947][ 67]LogMaterial: Display: Missing cached shadermap for PencilHolderMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 2B2BD24E311F4C7D0574E04C43441C43A898CD93), compiling. 
+[2023.04.27-13.09.21:468][ 67]LogStaticMesh: Display: Building static mesh pen_pencils_uv_fix_pencil_medum__rubber...
+[2023.04.27-13.09.21:468][ 67]LogStaticMesh: Display: Building static mesh pen_pencils_uv_fix_pencil_short...
+[2023.04.27-13.09.21:468][ 67]LogStaticMesh: Display: Building static mesh rulers_FIX_ruler_long...
+[2023.04.27-13.09.21:468][ 67]LogStaticMesh: Display: Building static mesh rulers_FIX_ruler_short...
+[2023.04.27-13.09.21:469][ 67]LogStaticMesh: Built static mesh [0.08s] /Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/pen_pencils_uv_fix_pencil_medium.pen_pencils_uv_fix_pencil_medium
+[2023.04.27-13.09.21:469][ 67]LogTexture: Display: Building textures: /Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/pencils_text_Normal.pencils_text_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.27-13.09.21:469][ 67]LogTexture: Display: Building textures: /Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/pencils_text_OcclusionRoughnessMetallic.pencils_text_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.27-13.09.21:469][ 67]LogStaticMesh: Built static mesh [0.13s] /Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/pen_pencils_uv_fix_pencil_medum__rubber.pen_pencils_uv_fix_pencil_medum__rubber
+[2023.04.27-13.09.21:469][ 67]LogStaticMesh: Built static mesh [0.20s] /Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/pen_pencils_uv_fix_pencil_short.pen_pencils_uv_fix_pencil_short
+[2023.04.27-13.09.21:469][ 67]LogTexture: Display: Building textures: /Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/RED_pencils_text_BaseColor.RED_pencils_text_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.27-13.09.21:469][ 67]LogStaticMesh: Built static mesh [0.27s] /Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/rulers_FIX_ruler_long.rulers_FIX_ruler_long
+[2023.04.27-13.09.21:469][ 67]LogStaticMesh: Built static mesh [0.30s] /Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/rulers_FIX_ruler_short.rulers_FIX_ruler_short
+[2023.04.27-13.09.21:702][ 67]LogTexture: Display: Building textures: /Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/ruler_text_OcclusionRoughnessMetallic.ruler_text_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.27-13.09.21:932][ 67]LogTexture: Display: Building textures: /Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/ruler_text_Normal.ruler_text_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.27-13.09.21:932][ 67]LogTexture: Display: Building textures: /Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/ruler_base.ruler_base (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.27-13.09.21:932][ 67]LogTexture: Display: Building textures: /Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/stationery_fin_fix_pencil_holder_text_Normal.stationery_fin_fix_pencil_holder_text_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.27-13.09.22:005][ 67]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/PrototypeLevelV1.PrototypeLevelV1
+[2023.04.27-13.09.22:006][ 67]LightingResults: New page: Lighting Build
+[2023.04.27-13.09.22:007][ 67]LoadErrors: New page: Loading map: PrototypeLevelV1.umap
+[2023.04.27-13.09.22:023][ 67]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-13.09.22:024][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-13.09.22:072][ 67]LogTexture: Display: Building textures: /Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/stationery_fin_fix_pencil_holder_text_BaseColor.stationery_fin_fix_pencil_holder_text_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.27-13.09.22:073][ 67]MapCheck: New page: Map Check
+[2023.04.27-13.09.22:073][ 67]LightingResults: New page: Lighting Build
+[2023.04.27-13.09.22:136][ 67]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.27-13.09.22:145][ 67]LogTexture: Display: Building textures: /Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/stationery_fin_fix_pencil_holder_text_OcclusionRoughnessMetallic.stationery_fin_fix_pencil_holder_text_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.27-13.09.22:164][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2023.04.27-13.09.22:272][ 67]LogTexture: Display: Waiting for textures to be ready 9/19 (/Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/ruler_base) ...
+[2023.04.27-13.09.22:704][ 67]LogTexture: Display: Waiting for textures to be ready 12/19 (/Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/stationery_fin_fix_pencil_holder_text_BaseColor) ...
+[2023.04.27-13.09.23:149][ 67]LogTexture: Display: Waiting for textures to be ready 18/19 (/Game/Assets/CompleteAssets/Assets_3D/Stars/star_fin_star_text_OcclusionRoughnessMetallic) ...
+[2023.04.27-13.09.27:183][ 67]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2023.04.27-13.09.27:183][ 67]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-2523ms], ThreadID=13476
+[2023.04.27-13.09.27:183][ 67]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.04.27-13.09.27:184][ 67]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049227s
