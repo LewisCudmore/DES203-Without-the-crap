@@ -583,6 +583,62 @@
 			]
 		},
 		{
+			"ShaderMapHash": "AE2797177D6058DDBD400B65B1080A79A6CE6079",
+			"Assets": [
+				"/Game/Materials/colour_corrected_gree",
+				"/Game/Materials/colour_corrected_cardboard_Mat",
+				"/Game/Materials/Cardboard",
+				"/Game/Materials/HeartTest"
+			]
+		},
+		{
+			"ShaderMapHash": "F125E21508079B078BC79E6318340265748DDC76",
+			"Assets": [
+				"/Game/Fire/Fire"
+			]
+		},
+		{
+			"ShaderMapHash": "D3CF26C940DA1D459BABFA88AF091019C72FDE4E",
+			"Assets": [
+				"/Game/Assets/CompleteAssets/Assets_3D/Tape/Tape_Mat",
+				"/Game/Assets/CompleteAssets/Assets_3D/Signs/SignMaterial",
+				"/Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/PencilHolderMaterial",
+				"/Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/RulerMaterial",
+				"/Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/PensandPencilMat",
+				"/Game/Assets/CompleteAssets/Assets_3D/Mushrooms/StalkMaterial",
+				"/Game/Assets/CompleteAssets/Assets_3D/Mushrooms/MushroomTopMaterial",
+				"/Game/Assets/CompleteAssets/Assets_3D/Log/LogMaterial",
+				"/Game/Assets/CompleteAssets/Assets_3D/Layers/Trees/Tree_Material",
+				"/Game/Assets/CompleteAssets/Assets_3D/Layers/Sky/Sky_Material",
+				"/Game/Assets/CompleteAssets/Assets_3D/Layers/Middleground/MG_Material",
+				"/Game/Assets/CompleteAssets/Assets_3D/Layers/Foreground/FG_Material",
+				"/Game/Assets/CompleteAssets/Assets_3D/Layers/Background/BG_Material",
+				"/Game/Assets/CompleteAssets/Assets_3D/Columns/CollumnHollowMat",
+				"/Game/Assets/CompleteAssets/Assets_3D/Columns/CollumnFunctionalMat",
+				"/Game/Assets/CompleteAssets/Assets_3D/Columns/CollumnDecoMat",
+				"/Game/Assets/CompleteAssets/Assets_3D/CheckpointBulb/BulbBaseMaterial",
+				"/Game/Assets/CompleteAssets/Assets_3D/Candy/CandyMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "55F5F13620D4929ACF588CA4FE7C59757AB25DF3",
+			"Assets": [
+				"/Game/Assets/CompleteAssets/Assets_3D/Stars/StarMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "52A1B94FBDD5E7C297298AA9F57F7CBA0DC9DCE8",
+			"Assets": [
+				"/Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/BookMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DB539F2641DF7DFC386893033EFFE9B7905847DE",
+			"Assets": [
+				"/Game/Assets/CompleteAssets/Assets_3D/CheckpointBulb/GlassMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "B150AA951472CA41983BB3A161BDDC7C261898CA",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
@@ -616,8 +672,8 @@
 			"ShaderMapHash": "7349758A5D0C3164D5A33746B21622F3E2C4320E",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Water_Ocean",
-				"/Game/Assets/PrototypeV1Assets/ColourTextures/M_Water_Ocean_Edited",
-				"/Game/Assets/PrototypeV1Assets/ColourTextures/M_Water_Ocean_Edited_Purple"
+				"/Game/Assets/PrototypeV1Assets/ColourTextures/M_Water_Ocean_Edited_Purple",
+				"/Game/Assets/PrototypeV1Assets/ColourTextures/M_Water_Ocean_Edited"
 			]
 		},
 		{
@@ -653,12 +709,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "AE2797177D6058DDBD400B65B1080A79A6CE6079",
+			"ShaderMapHash": "967E74F97A3D2BEF89D64A41CA59C3FD3A43B704",
 			"Assets": [
-				"/Game/Materials/colour_corrected_gree",
-				"/Game/Materials/colour_corrected_cardboard_Mat",
-				"/Game/Materials/Cardboard",
-				"/Game/Materials/HeartTest"
+				"/Game/Assets/CompleteAssets/Assets_3D/Grass/TestGrass"
 			]
 		},
 		{
@@ -710,9 +763,33 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F3D0CA659F7C7C1CDA1D3DAB048584B3E4D02365",
+			"Assets": [
+				"/Game/Video/Credits_MP_Video_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "BF8E660C9D51FF92DEE87C4B12EB849327371747",
+			"Assets": [
+				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body"
+			]
+		},
+		{
 			"ShaderMapHash": "7B9B364B6611B4174271C215F157D9F6E590BDF1",
 			"Assets": [
 				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI"
+			]
+		},
+		{
+			"ShaderMapHash": "86B263E8A8CC424896B244DE5C2EB62860609296",
+			"Assets": [
+				"/Game/Assets/PrototypeV1Assets/ColourTextures/M_Proto_WaterPurple"
+			]
+		},
+		{
+			"ShaderMapHash": "D1D72FC805720148FCC4A7D45D6F221A1CC5EC2F",
+			"Assets": [
+				"/Game/Assets/PrototypeV1Assets/ColourTextures/M_Proto_Water"
 			]
 		},
 		{
@@ -747,6 +824,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3414F34D28E8A39EE87574AB858EBB6A3EAC3236",
+			"Assets": [
+				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "051CC3FB92794DAAE0C3968D280AFA7B047015E3",
+			"Assets": [
+				"/Game/Materials/Burning"
+			]
+		},
+		{
 			"ShaderMapHash": "82FA1B69661E3A54D3C1A73DB12FD906CAA494AB",
 			"Assets": [
 				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
@@ -754,9 +843,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "F3D0CA659F7C7C1CDA1D3DAB048584B3E4D02365",
+			"ShaderMapHash": "FCEF16B081DDBE01392354475E19615C3EC3FBB8",
 			"Assets": [
-				"/Game/Video/Credits_MP_Video_Mat"
+				"/Game/Materials/WoodandBurning"
 			]
 		},
 		{
@@ -776,95 +865,6 @@
 			"Assets": [
 				"/Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02",
 				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02"
-			]
-		},
-		{
-			"ShaderMapHash": "FCEF16B081DDBE01392354475E19615C3EC3FBB8",
-			"Assets": [
-				"/Game/Materials/WoodandBurning"
-			]
-		},
-		{
-			"ShaderMapHash": "051CC3FB92794DAAE0C3968D280AFA7B047015E3",
-			"Assets": [
-				"/Game/Materials/Burning"
-			]
-		},
-		{
-			"ShaderMapHash": "F125E21508079B078BC79E6318340265748DDC76",
-			"Assets": [
-				"/Game/Fire/Fire"
-			]
-		},
-		{
-			"ShaderMapHash": "3414F34D28E8A39EE87574AB858EBB6A3EAC3236",
-			"Assets": [
-				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo"
-			]
-		},
-		{
-			"ShaderMapHash": "86B263E8A8CC424896B244DE5C2EB62860609296",
-			"Assets": [
-				"/Game/Assets/PrototypeV1Assets/ColourTextures/M_Proto_WaterPurple"
-			]
-		},
-		{
-			"ShaderMapHash": "D1D72FC805720148FCC4A7D45D6F221A1CC5EC2F",
-			"Assets": [
-				"/Game/Assets/PrototypeV1Assets/ColourTextures/M_Proto_Water"
-			]
-		},
-		{
-			"ShaderMapHash": "BF8E660C9D51FF92DEE87C4B12EB849327371747",
-			"Assets": [
-				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body"
-			]
-		},
-		{
-			"ShaderMapHash": "D3CF26C940DA1D459BABFA88AF091019C72FDE4E",
-			"Assets": [
-				"/Game/Assets/CompleteAssets/Assets_3D/Candy/CandyMaterial",
-				"/Game/Assets/CompleteAssets/Assets_3D/Columns/CollumnHollowMat",
-				"/Game/Assets/CompleteAssets/Assets_3D/Layers/Background/BG_Material",
-				"/Game/Assets/CompleteAssets/Assets_3D/Columns/CollumnDecoMat",
-				"/Game/Assets/CompleteAssets/Assets_3D/CheckpointBulb/BulbBaseMaterial",
-				"/Game/Assets/CompleteAssets/Assets_3D/Layers/Foreground/FG_Material",
-				"/Game/Assets/CompleteAssets/Assets_3D/Tape/Tape_Mat",
-				"/Game/Assets/CompleteAssets/Assets_3D/Columns/CollumnFunctionalMat",
-				"/Game/Assets/CompleteAssets/Assets_3D/Layers/Sky/Sky_Material",
-				"/Game/Assets/CompleteAssets/Assets_3D/Layers/Middleground/MG_Material",
-				"/Game/Assets/CompleteAssets/Assets_3D/Mushrooms/StalkMaterial",
-				"/Game/Assets/CompleteAssets/Assets_3D/Mushrooms/MushroomTopMaterial",
-				"/Game/Assets/CompleteAssets/Assets_3D/Log/LogMaterial",
-				"/Game/Assets/CompleteAssets/Assets_3D/Layers/Trees/Tree_Material",
-				"/Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/PencilHolderMaterial",
-				"/Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/RulerMaterial",
-				"/Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/PensandPencilMat",
-				"/Game/Assets/CompleteAssets/Assets_3D/Signs/SignMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "967E74F97A3D2BEF89D64A41CA59C3FD3A43B704",
-			"Assets": [
-				"/Game/Assets/CompleteAssets/Assets_3D/Grass/TestGrass"
-			]
-		},
-		{
-			"ShaderMapHash": "DB539F2641DF7DFC386893033EFFE9B7905847DE",
-			"Assets": [
-				"/Game/Assets/CompleteAssets/Assets_3D/CheckpointBulb/GlassMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "55F5F13620D4929ACF588CA4FE7C59757AB25DF3",
-			"Assets": [
-				"/Game/Assets/CompleteAssets/Assets_3D/Stars/StarMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "52A1B94FBDD5E7C297298AA9F57F7CBA0DC9DCE8",
-			"Assets": [
-				"/Game/Assets/CompleteAssets/Assets_3D/PencilsandStuff/BookMaterial"
 			]
 		}
 	]
